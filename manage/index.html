@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>Manage</title>
+    <link rel="Shortcut Icon" type="image/x-icon" href="../img/chess.ico" />
+    <link rel="stylesheet" href="../css/manage.css">
+    <link rel="stylesheet" href="../css/font.css">
+    <link rel="stylesheet" href="../css/sweetalert2.min.css">
+</head>
+
+<script src="../js/jquery-3.3.1.min.js"></script>
+<script src="../js/sweetalert2@9.js"></script>
+<script src="../js/sweetalert2.all.min.js"></script>
+<script src="../js/font.js"></script>
+<script src="../js/manage.js"></script>
+
+<body>
+    <!-- <div class="import">
+        <input type="file" id="real-file" hidden="hidden" />
+        <button type="button" id="custom-button">選擇檔案</button>
+        <span id="custom-text">No file chosen, yet.</span>
+    </div> -->
+    <h5><i class="fas fa-exclamation-triangle"></i>　匯入時，各欄位中請勿使用雙引號(")，否則格式會跑掉 ！</h5>
+    <div class="manage">
+        <form>
+            <h2><i class="fas fa-trash"></i> 清空資料表</h2>
+            <select name="請選擇要清空的資料表" class="clear">
+                <option value="none">請選擇</option>
+                <option value="ques">題目</option>
+                <option value="user">使用者</option>
+                <option value="zone">區塊</option>
+            </select>
+            <div id="clear_btn">送出</div>
+        </form>
+        <form>
+            <h2><i class="fas fa-file-export"></i> 匯出資料表</h2>
+            <select name="請選擇要清空的資料表" class="clear">
+                <option value="none">請選擇</option>
+                <option value="ques">題目</option>
+                <option value="user">使用者</option>
+                <option value="zone">區塊</option>
+            </select>
+            <div id="export_btn">送出</div>
+        </form>
+
+        <form>
+            <h2><i class="fas fa-cloud-download-alt"></i> 下載範例</h2>
+            <select name="下載範例" class="clear">
+                <option value="none">請選擇</option>
+                <option value="ques">題目</option>
+                <option value="user">使用者</option>
+                <option value="zone">區塊</option>
+            </select>
+            <div id="download_btn">下載</div>
+        </form>
+        <div class="setting">
+            <h2><i class="fas fa-cog"></i> 設定開放時間</h2>
+            開始 <input type="time" name="begin" value="01:00:00"><br>
+            結束 <input type="time" name="end" value="23:00:00"><br>
+            <div id="setting_btn">更新</div>
+        </div>
+
+
+        <form method="POST" id="ques_form">
+            <h2><i class="fas fa-file-import"></i> 匯入題目</h2>
+            <input type="file" name="file" class="upload" id="ques_upload" accept=".csv"><br>
+            <input type="submit" value="上傳">
+        </form>
+        <form method="POST" id="user_form">
+            <h2><i class="fas fa-file-import"></i> 匯入使用者</h2>
+            <input type="file" name="file" class="upload" id="user_upload" accept=".csv"><br>
+            <input type="submit" value="上傳">
+        </form>
+        <form method="POST" id="zone_form">
+            <h2><i class="fas fa-file-import"></i> 匯入區塊</h2>
+            <input type="file" name="file" class="upload" id="zone_upload" accept=".csv"><br>
+            <input type="submit" value="上傳">
+        </form>
+
+
+        <form>
+            <div class="switch">
+                <label>
+                    <h2 class="text"><i class="fas fa-heart"></i> 分數換生命</h2><br>
+                    關閉 &nbsp;<input type="checkbox" class="checkbox" id="switch1">
+                    <span class="btn_box1">
+                        <span class="btn"></span>
+                    </span>
+                    啟用
+                </label>
+            </div>
+        </form>
+        <form>
+            <div class="switch">
+                <label>
+                    <h2 class="text"><i class="fas fa-heart"></i> 隔日恢復生命</h2><br>
+                    關閉 &nbsp;<input type="checkbox" class="checkbox" id="switch2">
+                    <span class="btn_box2">
+                        <span class="btn"></span>
+                    </span>
+                    啟用
+                </label>
+            </div>
+        </form>
+
+    </div>
+
+    <div class="footer">
+        CopyRight &copy; 2020 By CYUT IEM Rong
+    </div>
+</body>
+
+</html>
