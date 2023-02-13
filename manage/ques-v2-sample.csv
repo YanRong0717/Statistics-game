@@ -1,0 +1,1617 @@
+﻿NULL,1,00:01:00,9,8,"某公司生產鬧鐘，有10％的不良率。此公司為了商譽，對每一個鬧鐘做品質檢驗以區分產品是否不良，並分類為“通過”或“不通過”，若檢驗員有5％的機會分類錯誤，則被分類為“通過”的百分比，最接近下列那一項？
+a. 80% 
+b. 85% 
+c. 90% 
+d. 95%",b,,
+NULL,1,00:01:00,4,4,"從台灣全省抽樣 1,000 家公司，調查其去年的業績，發現結果如下：業績成長的有 150 家，業績衰退的有 550 家，業績不變的有 300 家，而其中服務業所佔的比例分別為 45%，30%，50%。 若從中選取一家公司，已知其為服務業，則其去年業績成長的機率為若干?
+a.  0.151 
+b.  0.176 
+c.  0.189 
+d.  0.207
+",b,,
+NULL,1,00:01:00,5,5,"Random variable x has the probability function f(x) = X/6, for x = 1, 2 or 3
+The expected value of x is
+ a. 	0.333
+ b. 	0.500
+ c. 	2.000
+ d. 	2.333",d,,
+NULL,1,00:01:00,1,1,"The starting salaries of individuals with an MBA degree are normally distributed with a mean of $40,000 and a standard deviation of $5,000. What is the probability that a randomly selected individual with an MBA degree will get a starting salary of at least $30,000?
+ a. 	0.4772
+ b. 	0.9772
+ c. 	0.0228
+ d. 	0.5000",b,,
+NULL,1,00:01:00,3,0,"A sample of 2,500 people was asked how many cups of coffee they drink in the morning. You are given the following sample information.
+Cups of Coffee	Frequency
+0	        700
+1	        900
+2	        500
+3	        400
+	        2,500
+The variance of the number of cups of coffee is
+ a. 	1.06
+ b. 	1.03
+ c. 	2.25
+ d. 	1.24",a,,
+NULL,1,00:01:00,3,0,"The probability that Pete will catch fish when he goes fishing is 0.88. Pete is going to fish 3 days next week. Define the random variable x to be the number of days Pete catches fish. The variance of the number of days Pete will catch fish is
+ a. 	0.56
+ b. 	0.88
+ c. 	2.64
+ d. 	0.3168",d,,
+NULL,1,00:01:00,6,3,"The random variable x is the number of occurrences of an event over an interval of ten minutes. It can be assumed that the probability of an occurrence is the same in any two time periods of an equal length. It is known that the mean number of occurrences in ten minutes is 5.3. The probability that there are 8 occurrences in ten minutes is
+ a. 0	.0241
+ b. 	0.0771
+ c. 	0.1126
+ d. 	0.9107",b,,
+NULL,1,00:01:00,1,1,"A professor at a local university noted that the exam grades of her students were normally distributed with a mean of 73 and a standard deviation of 11. The professor has informed us that 8.75 percent of her students received grades of A. What is the minimum score needed to receive a grade of A?
+ a. 	85.00
+ b. 	95.00
+ c. 	87.92
+ d. 	90.00",c,,
+NULL,1,00:01:00,4,3,"The weight of football players is normally distributed with a mean of 200 pounds and a standard deviation of 25 pounds. What percent of players weigh between 175 and 225 pounds?
+ a. 	50%
+ b. 	68.27%
+ c. 	31.73%
+ d. 	95%",b,,
+NULL,1,00:01:00,6,5,"A professor at a local university noted that the exam grades of her students were normally distributed with a mean of 73 and a standard deviation of 11. Students who made 59.99 or lower on the exam failed the course. What percent of students failed the course?
+ a. 	11.85%
+ b. 	88.15%
+ c. 	1.80%
+ d. 	98.20%",a,,
+NULL,1,00:01:00,6,5,"The life expectancy of a particular brand of tire is normally distributed with a mean of 40,000 and a standard deviation of 5,000 miles. What percentage of tires will have a life of 35,000 to 45,000 miles?
+ a. 	31.73%
+ b. 	68.27%
+ c. 	50%
+ d. 	95%",b,,
+NULL,1,00:01:00,5,3,"若王先生得到甲工作的機率為0.5，得到乙工作的機率為0.6，在得到甲工作的條件下，王先生會得到乙工作的機率為0.5，請問王先生同時會得到甲工作及乙工作的機率為何?
+a. 1.1 
+b. 0.6 
+c. 0.3 
+d. 0.25",d,,
+NULL,1,00:01:00,5,3,"Use the normal approximation to the binomial distribution to answer this question. Eleven percent of all students at a large university are absent on Mondays. If a random sample of 12 names is called on a Monday, what is the probability that four students are absent?
+ a. 	0.0285
+ b. 	0.9935
+ c. 	0.0065
+ d. 	0.9715",a,,
+NULL,1,00:01:00,5,5,"Oriental Reproductions, Inc. is a company that produces handmade carpets with oriental designs. The production records show that the monthly production has ranged from 1 to 5 carpets. The production levels and their respective probabilities are shown below.
+
+Production	
+Per Month	Probability
+1	        0.01
+2	        0.04
+3	        0.10
+4	        0.80
+5	        0.05
+The expected monthly production level is
+ a. 	1.00.
+ b. 	4.00.
+ c. 	3.00.
+ d. 	3.84.",d,,
+NULL,1,00:01:00,9,4,"Consider the probability distribution below.
+x	  f(x)
+10 0.2
+20	 0.4
+30	 0.3
+40	 0.1
+The variance of x equals
+ a. 	9
+ b. 	23
+ c. 	81
+ d. 	610",c,,
+NULL,1,00:01:00,9,5,"The random variable x is the number of occurrences of an event over an interval of ten minutes. It can be assumed that the probability of an occurrence is the same in any two time periods of an equal length. It is known that the mean number of occurrences in ten minutes is 5.3. The expected value of the random variable x is
+ a. 	2
+ b. 	5.3
+ c. 	10
+ d. 	2.30",b,,
+NULL,1,00:01:00,8,1,"The probability that Pete will catch fish when he goes fishing is .88. Pete is going to fish 3 days next week. Define the random variable x to be the number of days Pete catches fish. The probability that Pete will catch fish on one day or less is
+ a. 	0.880
+ b. 	0.098
+ c. 	0.040
+ d. 	0.960",c,,
+NULL,1,00:01:00,8,3,"The ages of students at a university are normally distributed with a mean of 21. What percentage of the student body is at least 21 years old?
+ a. It could be any value, depending on the magnitude of the standard deviation
+ b. 50%
+ c. 21%
+ d. 1.96%",b,,
+NULL,1,00:01:00,5,5,"The life expectancy of a particular brand of tire is normally distributed with a mean of 40,000 and a standard deviation of 5,000 miles. What is the probability that a randomly selected tire will have a life of at least 35,000 miles?
+ a. 	0.1587
+ b. 	0.8413
+ c. 	0.0000
+ d. 	1.0000",b,,
+NULL,1,00:01:00,3,1,"The probability distribution for the daily sales at Michael's Co. is given below.
+Daily Sales
+(In $1,000s) Probability
+40	     0.1
+50	     0.4
+60	     0.3
+70	     0.2
+The probability of having sales of no more than $60,000 is
+ a. 	0.7.
+ b. 	0.2.
+ c. 	0.8.
+ d. 	0.5.",c,,
+NULL,1,00:01:00,4,2,"The starting salaries of individuals with an MBA degree are normally distributed with a mean of $40,000 and a standard deviation of $5,000. What is the probability that a randomly selected individual with an MBA degree will get a starting salary of at least $47,500?
+ a. 	0.4332
+ b. 	0.9332
+ c. 	0.0668
+ d. 	0.5000",c,,
+NULL,1,00:01:00,2,1,"Oriental Reproductions, Inc. is a company that produces handmade carpets with oriental designs.  The production records show that the monthly production has ranged from 1 to 5 carpets. The production levels and their respective probabilities are shown below.
+Production	
+Per Month	Probability
+1	           0.01
+2	           0.04
+3	           0.10
+4	           0.80
+5	           0.05
+The standard deviation for the production is
+ a. 	4.32
+ b. 	3.74
+ c. 	0.374
+ d. 	0.612",d,,
+NULL,1,00:01:00,4,0,"The probability that Pete will catch fish when he goes fishing is 0.88. Pete is going to fish 3 days next week. Define the random variable x to be the number of days Pete catches fish. The probability that Pete will catch fish on exactly one day is
+ a. 	0.880
+ b. 	0.038
+ c. 	0.040
+ d. 	0.960",b,,
+NULL,1,00:01:00,7,1,"The student body of a large university consists of 60% female students.  A random sample of 8 students is selected.  What is the probability that among the students in the sample at least 6 are female?
+ a. 	0.3154
+ b. 	0.6846
+ c. 	0.0168
+ d. 	0.8936",a,,
+NULL,1,00:01:00,8,6,"The weight of football players is normally distributed with a mean of 200 pounds and a standard deviation of 25 pounds. What is the minimum weight of the middle 95% of the players?
+ a. 	196
+ b. 	151
+ c. 	249
+ d. 	190",b,,
+NULL,1,00:01:00,5,2,"The time it takes to travel from home to the office is normally distributed with μ = 25 minutes and σ = 5 minutes. What is the probability the trip takes more than 32 minutes?
+ a. 	0.9701
+ b. 	0.1995
+ c. 	0.9192
+ d. 	0.0808",d,,
+NULL,1,00:01:00,6,5,"Consider the probability distribution below.
+x     	f(x)
+10     0	.2
+20	     0.4
+30	     0.3
+40	     0.1
+The expected value of x equals
+ a. 	23
+ b. 	25
+ c. 	30
+ d. 	100",a,,
+NULL,1,00:01:00,5,5,"從台灣全省抽樣 1,000 家公司，調查其去年的業績，發現結果如下：業績成長的有 120 家，業績衰退的有 580 家，業績不變的有 300 家，而其中服務業所佔的比例分別為 45%，30%，50%。若從中選取一家公司，所選取的公司不為服務業的機率為若干? 
+a. 0.3475 
+b. 0.4167 
+c. 0.5833 
+d. 0.6222",d,,
+NULL,1,00:01:00,4,2,"The random variable x is the number of occurrences of an event over an interval of ten minutes. It can be assumed that the probability of an occurrence is the same in any two-time periods of an equal length. It is known that the mean number of occurrences in ten minutes is 5.3. Which of the following discrete probability distributions' properties are satisfied by random variable x?
+ 
+ a. 	Normal
+ b. 	Poisson
+ c. 	Binomial
+ d. 	Hypergeometric",b,,
+NULL,1,00:01:00,3,3,"The starting salaries of individuals with an MBA degree are normally distributed with a mean of $40,000 and a standard deviation of $5,000. What percentage of MBA's will have starting salaries of $34,000 to $46,000?
+ a. 	38.49%
+ b. 	38.59%
+ c. 	50%
+ d. 	76.98%",d,,
+NULL,1,00:01:00,3,3,"The probability that Pete will catch fish when he goes fishing is .88. Pete is going to fish 3 days next week. Define the random variable x to be the number of days Pete catches fish. The expected number of days Pete will catch fish is
+ a. 	0.56
+ b. 	0.88
+ c. 	2.64
+ d. 	0.3168",c,,
+NULL,1,00:01:00,7,2,"x is a normally distributed random variable with a mean of 6 and a variance of 4. The probability that x is greater than 8.75 is
+ a. 	0.9154
+ b. 	0.0846
+ c. 	0.0775
+ d. 	0.9225",b,,
+NULL,1,00:01:00,9,4,"The student body of a large university consists of 60% female students.  A random sample of 8 students is selected.  What is the probability that among the students in the sample exactly two are male?
+ a. 	0.0896
+ b. 	0.2090
+ c. 	0.0413
+ d. 	0.0007",c,,
+NULL,1,00:01:00,5,3,"投一公正骰子一次，定義A,B,C 三事件如下：A={出現數字是偶數}，B={出現數字是小於4}，C={出現數字是大於4}。那麼Pr(A∩(B∪C))為何?(即A∩(B∪C)之機率) 
+a. 1/6 
+b. 1/3 
+c. 1/2 
+d. 2/3",b,,
+NULL,1,00:01:00,5,4,"Forty-four percent of all registered voters in a national election are female. A random sample of 5 voters is selected.  The probability that there are no females in the sample is
+ a. 	0.0551
+ b. 	0.9450
+ c. 	0.4400
+ d. 	0.1649",a,,
+NULL,1,00:01:00,4,3,"The random variable x is the number of occurrences of an event over an interval of ten minutes. It can be assumed that the probability of an occurrence is the same in any two time periods of an equal length. It is known that the mean number of occurrences in ten minutes is 5.3. The appropriate probability distribution for the random variable is
+ a. 	discrete.
+ b. 	continuous.
+ c. 	either discrete or continuous depending on how the interval is defined.
+ d. 	binomial.",a,,
+NULL,1,00:01:00,6,3,"A professor at a local university noted that the exam grades of her students were normally distributed with a mean of 73 and a standard deviation of 11.  If 69.5 percent of the students received grades of C or better, what is the minimum score of those who received C's?
+ a. 	70.39
+ b. 	67.39
+ c. 	50.39
+ d. 	65.39",b,,
+NULL,1,00:01:00,6,3,"A continuous random variable may assume
+ a. 	any numerical value in an interval or collection of intervals.
+ b. 	finite number of values in a collection of intervals.
+ c. 	an infinite sequence of values.
+ d. 	only the positive integer values in an interval.",a,,
+NULL,1,00:01:00,6,3,"某公司生產鬧鐘，有10%的不良率。此公司為了商譽，對每一個鬧鐘做品質檢驗以區分產品是否不良，並分類為“通過”或“不通過”，若檢驗員有5%的機會分類錯誤，如果只有被分類為“通過”的鬧鐘，可對外販賣；被分類為“不通過”的，則被鬧鐘報廢丟棄。問可對外販賣的燈泡中，是良品的百分比，最接近下列那一項?
+a. 90% 
+b. 93% 
+c. 96% 
+d. 99%",d,,
+NULL,1,00:01:00,4,2,"某疾病的發生率為1%，而某藥廠宣稱他們發展出一種很準確的檢測藥劑：若有病則檢測結果為陽性(有病)的機率是99%，若無病則檢測結果為陰性(沒病)的機率也是99%。現隨機選一人，則檢測結果為陽性的機率最接近：
+a. 1% 
+b. 2% 
+c. 50% 
+d. 99%",b,,
+NULL,1,00:01:00,6,4,"Roth is a computer-consulting firm. The number of new clients that they have obtained each month has ranged from 0 to 6. The number of new clients has the probability distribution that is shown below.
+Number of	
+New Clients	Probability
+0	        0.05
+1	        0.10
+2	        0.15
+3	        0.30
+4	        0.25
+5	        0.10
+6	        0.05
+The expected number of new clients per month is
+ a. 6
+ b. 0
+ c. 3.1
+ d. 3",c,,
+NULL,1,00:01:00,8,8,"假設台灣地區婦女就業調查中發現，40%在上班，60%為家庭主婦。若已知在上班工作的婦女中，大學畢業者佔 50%；在家庭工作的家庭主婦中，大學畢業者佔60%。. 從所有婦女中隨機抽取一人，其為大學畢業者的機率是多少?
+a. 0.45 
+b. 0.56 
+c. 0.67 
+d. 0.78",b,,
+NULL,1,00:01:00,4,1,"The student body of a large university consists of 65% female students.  A random sample of 8 students is selected.  What is the probability that among the students in the sample at least 6 are male?
+ a. 	0.0036
+ b. 	0.1691
+ c. 	0.4278
+ d. 	0.0253",d,,
+NULL,1,00:01:00,6,5,"Forty-four percent of all registered voters in a national election are female.  A random sample of 5 voters is selected. 
+The probability that the sample contains 2 female voters is
+ a. 	0.6600
+ b. 	0.6114
+ c. 	0.5000
+ d. 	0.3400",d,,
+NULL,1,00:01:00,6,6,"A sample of 2,500 people was asked how many cups of coffee they drink in the morning. You are given the following sample information.
+Cups of Coffee	Frequency
+0	700
+1	900
+2	500
+3	400
+	2,500
+The expected number of cups of coffee is
+ a. 	1
+ b. 	1.24
+ c. 	1.5
+ d. 	1.03",b,,
+NULL,1,00:01:00,3,0,"Roth is a computer-consulting firm. The number of new clients that they have obtained each month has ranged from 0 to 6. The number of new clients has the probability distribution that is shown below.
+Number of	
+New Clients	Probability
+0	        0.05
+1	        0.10
+2	        0.15
+3	        0.30
+4	        0.25
+5	        0.10
+6	        0.05
+The variance is
+ a. 	1.45
+ b. 	2.09
+ c. 	3.1
+ d. 	9.61",b,,
+NULL,1,00:01:00,7,5,"袋中有相同大小的1 個黑球與2 個白球。事件A 表示第1 球取到白球，事件B表示第2 球取到白球。一次取1 球，而且取出不放回，則下列敘述何者正確：
+a. A 與B 是互斥事件且A 與B 是獨立事件
+b. A 與B 是互斥且事件A 與B 是相依事件
+c.  A 與B 不互斥且事件A 與B 是相依事件
+d. A 與B 不互斥且A 與B 是獨立事件",c,,
+NULL,1,00:01:00,1,0,"The random variable x is the number of occurrences of an event over an interval of ten minutes. It can be assumed that the probability of an occurrence is the same in any two time periods of an equal length. It is known that the mean number of occurrences in ten minutes is 5.3. The probability that there are less than 3 occurrences is
+ a. 	.0659.
+ b. 	.0948.
+ c. 	.1016.
+ d. 	.1239.",c,,
+NULL,1,00:01:00,5,3,"x is a normally distributed random variable with a mean of 7 and a standard deviation of 2. The probability that x is between 6.48 and 7.56 is
+ a. 	0.9524
+ b. 	0.0476
+ c. 	0.7872
+ d. 	0.2128",d,,
+NULL,1,00:01:00,7,5,"從台灣全省抽樣 1,000 家公司，調查其去年的業績，發現結果如下：業績成長的有 150 家，業績衰退的有 550 家，業績不變的有 300 家，而其中服務業所佔的比例分別為 45%，30%，50%。 若從中選取一家公司，其為服務業的機率為若干?
+a.  0.3825 
+b.  0.4016 
+c.  0.4167 
+d.  0.4207",a,,
+NULL,1,00:01:00,5,2,"A numerical description of the outcome of an experiment is called a 
+a. descriptive statistic. 
+b. probability function. 
+c. variance. 
+d. random variable. ",d,,
+NULL,1,00:01:00,2,1,"A probability distribution showing the probability of x successes in n trials, where the probability of success does not change from trial to trial, is termed a 
+a. geometric  probability distribution. 
+b. binomial  probability distribution. 
+c. hypergeometric  probability distribution. 
+d. Poisson  probability distribution.",b,,
+NULL,1,00:01:00,5,2,"A manufacturing company has 5 identical machines that produce nails. The probability that a machine will break down on any given day is  0.1. Define a random variable X to be the number of machines that will break down in a day. What is the appropriate probability distribution for X? 
+a. binomial probability distribution. 
+b. negative binomial probability distribution. 
+c. hypergeometric probability distribution. 
+d. Poisson  probability distribution.",a,,
+NULL,1,00:01:00,10,9,"使用機率函數作為隨機變數之權重所計算之加權平均值，稱為 
+a. 變異數 
+b. 標準差 
+c. 期望值 
+d. 變異係數",c,,
+NULL,1,00:01:00,2,1,"某抵押貸款公司之顧客中有4%會拖欠付款。選出五個顧客樣本，正好有二個顧客拖欠之機率為何？ 
+a.  0.2592 
+b.  0.0142 
+c.  0.9588 
+d.  0.7408",b,,
+NULL,1,00:01:00,7,5,"In the textile industry, a manufacturer is interested in the number of blemishes or flaws occurring in each 100 feet of material. The probability distribution that has the greatest chance of applying to this situation is the 
+a. binomial probability distribution. 
+b. negative binomial probability distribution. 
+c. hypergeometric probability distribution. 
+d. Poisson  probability distribution.",d,,
+NULL,1,00:01:00,6,2,"Which of the following is not a characteristic of an experiment where the binomial probability distribution is applicable? 
+a. The experiment has a sequence of n identical trials 
+b. Exactly two outcomes are possible on each trial 
+c. The trials are dependent 
+d. The probabilities of the outcomes do not change from one trial to another",c,,
+NULL,1,00:01:00,3,3,"The key difference between the binomial and hypergeometric distribution is that, with the hypergeometric distribution 
+a. the probability of success must be less than 0.5. 
+b. the probability of success changes from trial to trial. 
+c. the trials are independent of each other. 
+d. the random variable is continuous.",b,,
+NULL,1,00:01:00,4,4,"兩組數值有相同的平均數，則 
+a.  它們的標準差一定也相等 
+b.  它們的中位數一定也相等 
+c.  它們的眾數一定也相等 
+d.  其他的位置參數不一定會相同",d,,
+NULL,1,00:01:00,8,7,"When a percentage of the smallest and largest values are deleted from a data set, the mean of the remaining data values is the 
+a.  geometric mean. 
+b.  weighted mean. 
+c.  trimmed mean. 
+d.  interquartile mean.",c,,
+NULL,1,00:01:00,8,8,"The first quartile 
+a.  contains at least one third of the data elements. 
+b.  is the same as the 25th percentile. 
+c.  is the same as the 50th percentile. 
+d.  is the same as the 75th percentile.",b,,
+NULL,1,00:01:00,6,5,"The interquartile range is 
+a.  the 50th percentile. 
+b.  another name for the variance. 
+c.  the difference between the largest and smallest values. 
+d.  the difference between the third quartile and the first quartile.",d,,
+NULL,1,00:01:00,10,2,"When data are positively skewed, the mean will usually be 
+a.  greater than the median. 
+b.  smaller than the median. 
+c.  equal to the median. 
+d.  positive.",a,,
+NULL,1,00:01:00,4,3,"The variance can never be 
+a.  zero. 
+b.  larger than the standard deviation. 
+c.  negative. 
+d.  smaller than the standard deviation.",c,,
+NULL,1,00:01:00,5,5,"In a city, 60% of the residents live in houses and 40% of the residents live in apartments. Of the people who live in houses, 20% own their own business. Of the people who live in apartments, 15% own their own business. If a person owns his or her own business, find the probability that he or she lives in a house. 
+a.  0.43
+b.  0.67
+c.  0.75
+d.  0.81",b,,
+NULL,1,00:01:00,9,7,"The correlation coefficient ranges between 
+a.  0 and 1. 
+b.  -1 and +1. 
+c.  minus infinity and plus infinity. 
+d.  1 and 100.",b,,
+NULL,1,00:01:00,7,6," The value of the sum of the deviations from the mean, i.e., ??(xi - x )? must always be 
+a.  less than the zero. 
+b.  negative. 
+c.  either positive or negative depending on whether the mean is negative or positive. 
+d.  zero.",d,,
+NULL,1,00:01:00,7,6,"The geometric mean of 2, 4, 8 is 
+a.  4.67
+b.  5.0 
+c.  16 
+d.  4.0",d,,
+NULL,1,00:01:00,1,0,"The most common graphical presentation of quantitative data is a 
+a.  histogram. 
+b.  bar chart.
+c.  stem and leaf display. 
+d.  pie chart.",a,,
+NULL,1,00:01:00,9,9,"The most frequently occurring value of a data set is called the 
+a.  mean. 
+b.  median. 
+c.  mode. 
+d.  outlier.",c,,
+NULL,1,00:01:00,6,6,"When n-1 is used in the denominator to compute variance, 
+a.  the data set is a sample. 
+b.  the data set is a population. 
+c.  the data set could be either a sample or a population. 
+d.  the data set is from a census.",a,,
+NULL,1,00:01:00,6,4,"Which of the following is not a measure of variability of a single variable? 
+a.  Range 
+b.  Covariance 
+c.  Standard deviation 
+d.  Interquartile range",b,,
+NULL,1,00:01:00,8,7,"An important numerical measure of the shape of a distribution is the 
+a.  variance. 
+b.  z-score. 
+c.  coefficient of variation. 
+d.  skewness.",d,,
+NULL,1,00:01:00,2,1,"In a box plot, data value x is considered an outlier if 
+a.  x < Q1 - 1.0(IQR) or x > Q3 + 1.0(IQR)
+b.  x < Q2 - 1.0(IQR) or x > Q2 + 1.0(IQR) 
+c.  x < Q1 - 1.5(IQR) or x > Q3 + 1.5(IQR) 
+d.  x < Q2 -1.5(IQR) or x > Q2 + 1.5(IQR)",c,,
+NULL,1,00:01:00,5,2,"The probability of randomly selecting 4 good quarts of milk in succession from a cooler containing 20 quarts of which 5 have spoiled is 
+a.  0.143 
+b.  0.282 
+c.  0.014 
+d.  0.035",b,,
+NULL,1,00:01:00,6,3,"In how many ways can 7 graduate students be assigned to 1 triple and 2 double hotel rooms during a conference? 
+a.  210 
+b.  420 
+c.  1260 
+d.  2520",a,,
+NULL,1,00:01:00,10,6,"How many distinct permutations can be made from the letters of the word CONTINUITY? 
+a. 10! 
+b. 10!/2! 
+c. 10!/6! 
+d. 453600",d,,
+NULL,1,00:01:00,3,0,"As a company manager, there is a 0.40 probability that you will be promoted this year. There is a 0.72 probability that you will get a promotion, a raise, or both. The probability of getting a promotion and a raise is 0.25. Then getting a raise and being promoted are 
+a.  independent events. 
+b.  mutually exclusive. 
+c.  both independent and mutually exclusive. 
+d.  neither independent nor mutually exclusive.",d,,
+NULL,1,00:01:00,3,2,"The probability that a doctor correctly diagnoses a particular illness is 0.8. Given that the doctor makes an incorrect diagnosis, the probability that the patient files a lawsuit is 0.9. What is the probability that the doctor makes an incorrect diagnosis and the patient sues? 
+a.  0.98 
+b.  0.63 
+c.  0.18 
+d.  0.9.",c,,
+NULL,1,00:01:00,2,2,"If Pr(A) = 0.4, Pr(B | A) = 0.35, Pr(A∪B) = 0.69, then Pr(B) = 
+a.  0.14
+b.  0.43 
+c.  0.75 
+d.  0.59",b,,
+NULL,1,00:01:00,7,7,"If X and Y are mutually exclusive events with Pr(A) = 0.295, Pr(B) = 0.32, then Pr(A | B) = 
+a.  0.0944
+b.  0.6150
+c.  1.0000
+d.  0.0000",d,,
+NULL,1,00:01:00,6,4,"If Pr(A) = 0.45, Pr(B) = 0.55, and Pr(A∪B) = 0.78, then Pr(A | B) = 
+a.  0.00 
+b.  0.45 
+c.  0.22 
+d.  0.40",d,,
+NULL,1,00:01:00,9,5,"Assume you have applied for two jobs A and B. The probability that you get an offer for job A is 0.23. The probability of being offered job B is 0.19. The probability of getting at least one of the jobs is 0.38. What is the probability that you will be offered both jobs? 
+a.  0.04 
+b.  0.0 
+c.  0.0437 
+d.  0.05",a,,
+NULL,1,00:01:00,1,1,"If A and B are mutually exclusive, then 
+a.  Pr(A)+Pr(B) = 0
+b.  Pr(A)+Pr(B) = 1 
+c.  Pr(A∩B) = 0
+d.  Pr(A∩B) = 1",c,,
+NULL,1,00:01:00,7,6,"Initial estimates of the probabilities of events are known as 
+a.  subjective probabilities. 
+b.  posterior probabilities. 
+c.  conditional probabilities. 
+d.  prior probabilities.",d,,
+NULL,1,00:01:00,3,1,"In a Statistics class, it was determined that only 60% of the students attend class on Fridays. From past data it was noted that 98% of those who went to class on Fridays pass the course, while only 20% of those who did not go to class on Fridays passed the course. The percentage of students is expected to pass the course is 
+a.  0.504 
+b.  0.88 
+c.  0.668 
+d.  0.32",c,,
+NULL,1,00:01:00,7,1,"If X and Y are dependent, then 
+a.  Var(X) = E(X^2)-E(X)^2
+b.  Var(X+Y) = Var(X) + Var(Y)
+c. XY=0
+d.  E(XY) = E(X)E(Y)",a,,
+NULL,1,00:01:00,1,1,"If A and B are independent events with Pr(A) = 0.1 and Pr(B) = 0.4, then 
+a.  Pr(A∩B) = 0
+b.  Pr(A)Pr(B) = 0.5 
+c.  Pr(A|B)= 0.25
+d.  Pr(A∪B) = 0.46",d,,
+NULL,1,00:01:00,4,3,"The probability that a person flips a coin and gets the third head on the seventh flip is (某人擲硬幣並在第七次時獲得第三個正面的機率是)
+a.  0.1172
+b.  0.1562 
+c.  0.0078 
+d.  0.0156",a,,
+NULL,1,00:01:00,4,1,"Assume that you have a binomial experiment with p = 0.4 and a sample size of 50. The variance of this distribution is （假設你進行一個p = 0.4，50個樣本的二項實驗。這個分配的變異數為）
+a.  20
+b.  12
+c. 3.46 
+d.  144",b,,
+NULL,1,00:01:00,3,0,"A researcher has collected the sample data: 13, 15, 12, 13, 12. The interquartile range is 
+a. 1 
+b. 2 
+c. 3 
+d. 1.5",b,,
+NULL,1,00:01:00,9,0,"Annual revenue for Corning Supplies grew by 5.5% in 2007; 1.1% in 2008; 3.5% in 2009; 1.1% in 2010; and 1.8% in 2011. What is the mean growth annual rate over this period? 
+a. 2.493% 
+b. 2.586% 
+c. 2.60% 
+d. 2.637%",b,,
+NULL,1,00:01:00,5,1,"If k people are seated in a random manner in a row containing n seats (n > k), what is the probability that the people will occupy k adjacent seats in the row?
+a.  k!(n-k+1)!/n!
+b.  k(n-k+1)!/n!
+c.  k!(n-k)!/n!
+d.   k(n-k+1)!/n",a,,
+NULL,1,00:01:00,8,4,"If A is a subset of B with Pr(B) > 0, what is the value of Pr(A|B)?
+a.  Pr(A∩B)
+b.  Pr(A)/Pr(B)
+c.  Pr(A)Pr(B)
+d.  0",b,,
+NULL,1,00:01:00,6,4,"If S is the sample space of an experiment and A is any event in that space, what is the value of Pr(A|S)?
+a.  Pr(A∩S)
+b.  Pr(A)Pr(S)
+c.  Pr(A)
+d.  0",c,,
+NULL,1,00:01:00,5,3,"For any two events A and B with Pr(B) > 0, then Pr(A' |B) =
+a.  Pr(A'∩B)
+b.  Pr(A∩B)
+c.  1 - Pr(A' |B)
+d.  1 - Pr(A|B)",d,,
+NULL,1,00:01:00,5,2,"For any three events A, B, and D, such that Pr(D) > 0, then Pr(A∪B|D) =
+a.  Pr(A|D) + Pr(B|D) - Pr(A∩B|D)
+b.  Pr(A|D) + Pr(B|D) 
+c.  Pr(A∩D) + Pr(B∩D) - Pr(A∩B)
+d.  Pr(A|D) + Pr(B|D) - Pr(A∩B|D)",a,,
+NULL,1,00:01:00,7,5,"If A and B are independent events and Pr(B) < 1, what is the value of Pr(A' |B')?
+a.  Pr(A)
+b.  Pr(A')
+c.  Pr(A∩B)
+d.  0",b,,
+NULL,1,00:01:00,1,1,"Assuming that A and B are independent events, then the events A' and B' are
+a.  mutually exclusice
+b.  dependent
+c.  independent
+d.  undecisive",c,,
+NULL,1,00:01:00,8,2,"Suppose that A is an event such that Pr(A) = 0 and that B is any other event. A and B are 
+a.  mutually exclusive events
+b.  dependent events
+c.  independent events
+d.  undecisive events",c,,
+NULL,1,00:01:00,3,1,"You are a member of a class of 18 students. A bowl contains 18 chips: 1 blue and 17 red. Each student is to take 1 chip from the bowl without replacement. The student who draws the blue chip is guaranteed an 
+A for the course. If you have a choice of drawing first, fifth, or last, which position would you choose?
+a. the first
+b. the fifth
+c. the last
+d. make no difference",d,,
+NULL,1,00:01:00,4,3,"You are a member of a class of 18 students. A bowl contains 18 chips: 2 blue and 16 red. Each student is to take 1 chip from the bowl without replacement. The student who draws the blue chip is guaranteed an A for the course. If you have a choice of drawing first, fifth, or last, which position would you choose?
+a. the first
+b. the fifth
+c. the last
+d. make no difference",d,,
+NULL,1,00:01:00,3,2,"If and Pr(A)=0.2 and Pr(B)=0.2, and A and B are mutually exclusive, then A and B are 
+a. independent.
+b. dependent.
+c. relation are unknown.
+d. Pr(A∪B) = 0.2.",b,,
+NULL,1,00:01:00,4,3,"Each individual outcome of an experiment is called
+a.  the sample space.
+b.  a sample point.
+c.  a trial.
+d.  an event.",b,,
+NULL,1,00:01:00,7,3,"When the assumption of equally likely outcomes is used to assign probability values, the method used to assign probabilities is referred to as the _____ method.
+  a.  relative frequency
+  b.  subjective
+  c.  probability
+  d.  Classical",d,,
+NULL,1,00:01:00,3,1,"When the results of experimentation or historical data are used to assign probability values, the method used to assign probabilities is referred to as the _____ method.
+a.  relative frequency
+b.  subjective
+c.  classical
+d.  posterior",a,,
+NULL,1,00:01:00,3,3,"The intersection of two mutually exclusive events
+a.  can be any value between 0 to1.
+b.  must always be equal to 1.
+c.  must always be equal to 0.
+d.  can be any positive value.",c,,
+NULL,1,00:01:00,9,8,"Events that have no sample points in common are
+a.  independent events.
+b.  supplements.
+c.  mutually exclusive events.
+d.  complements.",c,,
+NULL,1,00:01:00,8,4,"Two events with nonzero probabilities
+a.  can be both mutually exclusive and independent.
+b.  can not be both mutually exclusive and independent.
+c.  are always mutually exclusive.
+d.  are always independent.",b,,
+NULL,1,00:01:00,6,6,"The sum of the probabilities of two complementary events is
+a.  0.
+b.  0.5.
+c.  0.57.
+d.  1.0.",d,,
+NULL,1,00:01:00,5,4,"If P(A) = 0.4, P(B | A) = 0.35, P(A ∪ B) = 0.69, then P(B) =
+a.  0.14.
+b.  0.43.
+c.  0.75.
+d.  0.59.",b,,
+NULL,1,00:01:00,5,2,"If P(A) = 0.50, P(B) = 0.40 and P(A ∪ B) = 0.88, then P(B | A) =
+a.  0.02.
+b.  0.03.
+c.  0.04.
+d.  0.05.",c,,
+NULL,1,00:01:00,7,6,"If X and Y are mutually exclusive events with P(A) = 0.295, P(B) = 0.32, then P(A | B) =
+a.  0.0944.
+b.  0.6150.
+c.  1.0000.
+d.  0.0000.",d,,
+NULL,1,00:01:00,3,1,"When should measures of location and dispersion be computed from grouped data rather than from individual data values?
+a.  As much as possible since computations are easier
+b.  Only when individual data values are unavailable
+c.  Whenever computer packages for descriptive statistics are unavailable
+d.  Only when the data are from a population",b,,
+NULL,1,00:01:00,8,5,"The closing stock price of MNM Corporation for the last 7 trading days is shown below.
+Day  Stock Price
+1  24
+2  27
+3  24
+4  28
+5  25
+6  30
+7  31
+The variance is
+a.  2.828.
+b.  2.618.
+c.  8.
+d.  6.857.",d,,
+NULL,1,00:01:00,5,2,"Geometric mean is a measure of
+a.  location.
+b.  dispersion.
+c.  variability.
+d.  weight.",a,,
+NULL,1,00:01:00,5,5,"The nth root of the product of the n observations is the
+a.  weighted mean.
+b.  geometric mean.
+c.  product deviation.
+d.  product variance.",b,,
+NULL,1,00:01:00,4,1,"The measure of location which is the most likely to be influenced by extreme values in the data set is the
+a.  range.
+b.  median.
+c.  mode.
+d.  mean.",d,,
+NULL,1,00:01:00,2,1,"If two groups of numbers have the same mean, then
+a.  their standard deviations must also be equal.
+b.  their medians must also be equal.
+c.  their modes must also be equal.
+d.  other measures of location need not be the same.",d,,
+NULL,1,00:01:00,7,6,"When a percentage of the smallest and largest values are deleted from a data set, the mean of the remaining data values is the _____ mean.
+a.  geometric
+b.  weighted
+c.  trimmed
+d.  interquartile",c,,
+NULL,1,00:01:00,5,2,"A numerical value used as a summary measure for a sample is known as a sample
+a.  error.
+b.  parameter.
+c.  statistic.
+d.  value.",c,,
+NULL,1,00:01:00,7,1,"The hourly wages of a sample of 130 system analysts are given below.
+mean = 60,  range = 20, mode = 73, variance = 324, median = 74 
+The coefficient of variation equals
+a.  0.30%.
+b.  30%.
+c.  5.4%.
+d.  54%.",b,,
+NULL,1,00:01:00,7,4,"The variance of a sample of 144 observations equals 576. The standard deviation of the sample equals
+a.  12.
+b.  21.
+c.  441.
+d.  63,504.",b,,
+NULL,1,00:01:00,7,5,"The median is a measure of
+a.  relative dispersion.
+b.  absolute dispersion.
+c.  central location.
+d.  relative location.",c,,
+NULL,1,00:01:00,7,6,"The pth percentile is a value such that approximately
+ a.  p percent of the observations are less than the value and (100 - p) percent are more than this value.
+ b.  p percent of the observations are less than the value and p percent are more than this value.
+ c.  (100 - p) percent of the observations are less than the value and p percent are more than this value.
+ d.  (100 - p) percent of the observations are less than the value and (100 - p) percent are more than this value.",a,,
+NULL,1,00:01:00,4,3,"The difference between the largest and the smallest data values is the
+a.  variance.
+b.  interquartile range.
+c.  range.
+d.  coefficient of variation.",c,,
+NULL,1,00:01:00,4,4," The first quartile is the same as the
+a.  median.
+b.  25th percentile.
+c.  50th percentile.
+d.  75th percentile.",b,,
+NULL,2,00:01:00,1,0,"The following table shows part of the probability distribution for a random variable x.
+x    f(x)
+0     0.2
+1     ?
+2     0.15
+3     ?
+4     0.15
+Q: If the mean of the above distribution is known to be 1.8 (i.e.,E(x) = 1.8), what is f(1)?",0.3,0.299,0.301
+NULL,2,00:01:00,2,1,"The following table shows part of the probability distribution for a random variable x.
+x    f(x)
+0     0.2
+1     ?
+2     0.15
+3     ?
+4     0.15
+Q: If the mean of the above distribution is known to be 1.8 (i.e.,E(x) = 1.8), what is f(3)?",0.2,0.199,0.201
+NULL,2,00:01:00,0,0,"Assume you have applied for two scholarships, a Merit scholarship (M) and an Athletic scholarship (A). The probability that you receive an Athletic scholarship is 0.18. The probability of receiving both scholarships is 0.11. The probability of getting at least one of the scholarships is 0.3.
+
+Q: What is the probability of receiving the Athletic scholarship given that you have been awarded the Merit scholarship?",0.4783,0.4583,0.4983
+NULL,2,00:01:00,1,1,"Sixty percent of the student body at UTC is from the state of Tennessee (T), 30% percent are from other states (O), and the remainder are international students (I). Twenty percent of students from Tennessee live in the dormitories, whereas, 50% of students from other states live in the dormitories. Finally, 80% of the international students live in the dormitories.
+
+Q:Given that a student lives in the dormitory, what is the probability that she/he is an international student?",0.2286,0.2086,0.2486
+NULL,2,00:01:00,2,2,"An applicant has applied for positions at Company A and Company B. The probability of getting an offer from Company A is 0.4, and the probability of getting an offer from Company B is 0.3. Assuming that the two job offers are independent of each other, what is the probability that
+
+Q:the applicant will not be given an offer from either company?",0.42,0.4,0.44
+NULL,2,00:01:00,1,0,"Forty percent of the students who enroll in a statistics course go to the statistics laboratory on a regular basis. Past data indicates that 65% of those students who use the lab on a regular basis make a grade of A in the course. On the other hand, only 15% of students who do not go to the lab on a regular basis make a grade of A. If a particular student made an A, determine the probability that she or he used the lab on a regular basis.",0.743,0.723,0.763
+NULL,2,00:01:00,4,4,"In a city, 60% of the residents live in houses and 40% of the residents live in apartments. Of the people who live in houses, 20% own their own business. Of the people who live in apartments, 15% own their own business. If a person owns his or her own business, find the probability that he or she lives in a house.",0.67,0.65,0.69
+NULL,2,00:01:00,0,0,"Four workers at a fast food restaurant pack the take-out chicken dinners. John packs 45% of the dinners but fails to include a salt packet 4% of the time. Mary packs 25% of the dinners but omits the salt 2% of the time. Sue packs 30% of the dinners but fails to include the salt 3% of the time. You have purchased a dinner and there is no salt.
+
+Q:Find the probability that Mary packed your dinner.",0.15625,0.13625,0.17625
+NULL,2,00:01:00,1,1,"A statistics professor has noted from past experience that a student who follows a program of studying two hours for each hour in class has a probability of 0.9 of getting a grade of C or better, while a student who does not follow a regular study program has a probability of 0.2 of getting a C or better. It is known that 70% of the students follow the study program. Find the probability that a student who has earned a C or better grade, followed the program.",0.913,0.893,0.933
+NULL,2,00:01:00,2,1,"A survey of business students who had taken the Graduate Management Admission Test (GMAT) indicated that students who have spent at least five hours studying GMAT review guides have a probability of 0.85 of scoring above 400. Students who do not review have a probability of 0.65 of scoring above 400. It has been determined that 70% of the business students review for the test.
+
+Q:Find the probability that a student who scored above 400 reviewed for the test.",0.7532,0.7332,0.7732
+NULL,2,00:01:00,2,2,"A machine is used in a production process. From past data, it is known that 97% of the time the machine is set up correctly. Furthermore, it is known that if the machine is set up correctly, it produces 95% acceptable (non-defective) items. However, when it is set up incorrectly, it produces only 40% acceptable items.
+
+Q:Given that the selected item is non-defective, what is the probability that the machine is set up correctly?",0.9871,0.9771,0.9971
+NULL,2,00:01:00,4,1,"A small town has 5,600 residents. The residents in the town were asked whether or not they favored building a new bridge across the river. You are given the following information on the residents' responses, broken down by sex.
+
+ 	   Men	Women	Total
+In Favor 1,400	  280	1,680
+Opposed	   840	3,080	3,920
+Total	 2,240	3,360	5,600
+
+Let:	M be the event a resident is a man
+ 	W be the event a resident is a woman
+ 	F be the event a resident is in favor
+ 	P be the event a resident is opposed
+
+Q: What is the probability that a randomly selected resident is a man and is in favor of building the bridge?",0.25,0.23,0.27
+NULL,2,00:01:00,0,0,"A salesperson contacts eight potential customers per day. From past experience, we know that the probability of a potential customer making a purchase is .10.
+
+Q: What is the probability that the salesperson will make at least two sales in a day?",0.1869,0.1669,0.2069
+NULL,2,00:01:00,0,0,"The records of a department store show that 20% of its customers who make a purchase, return the merchandise in order to exchange it. In the next six purchases,
+
+Q:what is the probability that none of the customers will return the merchandise for exchange?",0.2621,0.2421,0.2821
+NULL,2,00:01:00,0,0,"On the average, 8.2 cars arrive at the drive-up window of a bank every hour. Define the random variable x to be the number of cars arriving in any hour.
+
+Q:Compute the probability that no more than 4 cars will arrive in the next hour.",0.037,0.035,0.039
+NULL,2,00:01:00,4,0,"Twenty percent of the parts produced by a machine are defective. Twenty parts are selected at random. Use the binomial probability tables to answer the following questions.
+
+Q:What is the probability that the number of defective parts will be more than 2 but fewer than 6?",0.126,0.116,0.136
+NULL,2,00:01:00,1,0,"The following probability distribution represents the number of grievances filed per month with the MNM. Corporation.
+
+x     	f(x)
+0	     0.04
+1	     0.36
+2	     0.50
+3	     0.08
+4	     0.02
+
+Q:Determine the variance.",0.5776,0.5576,0.5976
+NULL,2,00:01:00,0,0,"Only 0.02% of credit card holders of a company report the loss or theft of their credit cards each month. The company has 15,000 credit cards in the city of Memphis. Use the Poisson probability tables to answer the following questions. What is the probability that during the next month in the city of Memphis
+
+Q:no one reports the loss or theft of his or her credit cards?",0.0498,0.0478,0.0518
+NULL,2,00:01:00,0,0,"A retailer of electronic equipment received six VCRs from the manufacturer. Three of the VCRs were damaged in the shipment. The retailer sold two VCRs to two customers.
+
+Q:What is the probability that one of the two customers received a defective VCR?",0.6,0.58,0.62
+NULL,2,00:01:00,3,3,"The management of a grocery store has kept a record of bad checks received per day for a period of 200 days. The data are shown below.
+
+Number of Bad	 
+Checks Received	    Number of Days
+0	            8
+1	            12
+2	            20
+3	            60
+4	            40
+5	            30
+6	            20
+7	            10
+
+Q:What is the probability that in a given day the store receives four or less bad checks?
+",0.7,0.68,0.72
+NULL,2,00:01:00,2,2,"The time it takes to hand carve a guitar neck is uniformly distributed between 110 and 190 minutes.
+
+Q:What is the probability that the guitar neck can be carved between 120 and 200 minutes?",0.875,0.855,0.895
+NULL,2,00:01:00,3,2,"The length of time patients must wait to see a doctor in a local clinic is uniformly distributed between 15 minutes and 2.5 hours.
+
+Q:What is the probability that a patient would have to wait between 45 minutes and 2 hours?",0.556,0.536,0.576
+NULL,2,00:01:00,5,1,"The time it takes a mechanic to change the oil in a car is exponentially distributed with a mean of 5 minutes.
+
+Q:What is the probability that it will take a mechanic between 3 and 5 minutes to change the oil?",0.1809,0.1609,0.2009
+NULL,2,00:01:00,2,1,"The time required to assemble a part of a machine follows an exponential probability distribution with a mean of 14 minutes.
+
+Q:What is the probability that the part can be assembled between 3.5 and 7 minutes?",0.1723,0.1523,0.1923
+NULL,2,00:01:00,1,0,"You are applying for graduate school at University A. In the past 42% of the applicants to this university have been accepted. It is also known that 70% of those students who have been accepted have had GMAT scores in excess of 550 while 40% of the students who were not accepted had GMAT scores in excess of 550. You take the GMAT exam and score 640. What is the probability that you will be accepted into graduate school of University A? (Round to 4 decimal places.)",0.5589,0.5389,0.5789
+NULL,2,00:01:00,2,2,"The sales records of a real estate agency show the following sales over the past 200 days:
+
+Number of	Number
+Houses Sold	of Days
+0	        60
+1	        80
+2	        40
+3	        16
+4	         4
+
+Q:What is the probability of selling 1 or 2 houses?
+",0.6,0.58,0.62
+NULL,2,00:01:00,2,1,"A bank has the following data on the gender and marital status of 200 customers.
+
+ 	Male	Female
+Single	20	30
+Married	100	50
+
+Q:If a customer is male, what is the probability that he is married?
+",0.833,0.813,0.853
+NULL,2,00:01:00,0,0,"The time it takes a worker on an assembly line to complete a task is exponentially distributed with a mean of 8 minutes.
+
+Q:What is the probability that it will take a worker between 6 and 10 minutes to complete the task?",0.1859,0.1659,0.2059
+NULL,2,00:01:00,2,2,"The time it takes a mechanic to change the oil in a car is exponentially distributed with a mean of 5 minutes.
+
+Q:What is the probability that it will take a mechanic between 3 and 5 minutes to change the oil?",0.1809,0.1609,0.2009
+NULL,2,00:01:00,2,2,"The Body Paint, an automobile body paint shop, has determined that the painting time of automobiles is uniformly distributed and that the required time ranges between 45 minutes to 1 .5 hours.
+
+Q:What is the probability that the painting time will be more than 50 minutes?",0.889,0.869,0.909
+NULL,2,00:01:00,0,0,"The time it takes to hand carve a guitar neck is uniformly distributed between 110 and 190 minutes.
+
+Q:What is the probability that a guitar neck can be carved between 95 and 165 minutes?
+",0.6875,0.6675,0.7075
+NULL,2,00:01:00,1,0,"The length of time patients must wait to see a doctor in a local clinic is uniformly distributed between 15 minutes and 2.5 hours.
+
+Q:What is the probability that a patient would have to wait between 45 minutes and 2 hours?",0.556,0.536,0.576
+NULL,2,00:01:00,1,1,"The following table shows part of the probability distribution for the number of boats sold daily at Boats Unlimited. It is known that the average number of boats sold daily is 1.57.
+x     	f(x)
+0	     0.20
+1	     0.30
+2	     0.32
+3	     ?
+4	     0.05
+5	     0.02
+Compute the standard deviation for this probability distribution.
+",1.1854,0.9854,1.3854
+NULL,2,00:01:00,1,0,"An insurance company has determined that each week an average of nine claims are filed in their Atlanta branch. What is the probability that during the next week.
+
+Q:less than four claims will be filed?",0.0212,0.0192,0.0232
+NULL,2,00:01:00,0,0,"A government agency has 6,000 employees. The employees were asked whether they preferred a four-day work week (10 hours per day), a five-day work week (8 hours per day), or flexible hours. You are given information on the employees' responses broken down by sex.
+
+ 	      Male	Female	   Total
+Four day      300	600	   900
+Five days     1,200	1,500	   2,700
+Flexible      300	2,100	   2,400
+Total	      1,800	4,200	   6,000
+
+Q:A randomly selected employee turns out to be female. Compute the probability that she is in favor of flexible hours.",0.5,0.48,0.52
+NULL,2,00:01:00,0,0,"A government agency has 6,000 employees. The employees were asked whether they preferred a four-day work week (10 hours per day), a five-day work week (8 hours per day), or flexible hours. You are given information on the employees' responses broken down by sex.
+
+ 	      Male	Female	   Total
+Four day      300	600	   900
+Five days     1,200	1,500	   2,700
+Flexible      300	2,100	   2,400
+Total	      1,800	4,200	   6,000
+
+Q:Given that a person is in favor of flexible time, what is the probability that the person is female?",0.875,0.855,0.895
+NULL,2,00:01:00,1,0,"On a recent holiday evening, a sample of 500 drivers was stopped by the police. Three hundred were under 30 years of age. A total of 250 were under the influence of alcohol. Of the drivers under 30 years of age, 200 were under the influence of alcohol.
+
+Let A be the event that a driver is under the influence of alcohol.
+Let Y be the event that a driver is less than 30 years old.
+
+Q:Given that a driver is not under 30, what is the probability that he/she is under the influence of alcohol?",0.667,0.647,0.687
+NULL,2,00:01:00,4,2,"The following table shows the number of students in three different degree programs and whether they are graduate or undergraduate students:
+ 	        Undergraduate	Graduate	Total
+Business	 150	        50	        200
+Engineering	 150	        25	        175
+Arts & Sciences	 100	        25	        125
+Total	         400	        100	        500
+
+Q:What is the probability that a randomly selected student is a graduate Business major?",0.1,0.08,0.12
+NULL,2,00:01:00,2,0,"In a recent survey of computer ownership, 73.4% of the respondents indicated they own PC computers, while 21.8% indicated they own both PC and Mac computers, and 80.1% said they own at least one of the two computers.
+
+Q:Given that a respondent owns a PC, what is the probability that the respondent also owns a Mac?",0.297,0.277,0.317
+NULL,2,00:01:00,4,0,"In a recent survey about appliance ownership, 58.3% of the respondents indicated that they own Maytag appliances, while 23.9% indicated they own both Maytag and GE appliances and 70.7% said they own at least one of the two appliances.
+
+Q:Given that a respondent owns a Maytag appliance, what is the probability that the respondent also owns a GE appliance?",0.4099,0.3899,0.4299
+NULL,2,00:01:00,1,1,"Assume that we have two events, A and B, that are mutually exclusive. Assume further that we know Pr(A)=0.30 and Pr(B)=0.40. 
+
+Q: Compute  Pr(A∩B)",0,0,0.001
+NULL,2,00:01:00,0,0,"Assume that we have two events, A and B, that are mutually exclusive. Assume further that we know Pr(A)=0.30 and Pr(B)=0.40. 
+
+Q: Compute Pr(A|B)",0.3,0.2999,0.3001
+NULL,2,00:01:00,5,5,"Assume that we have two events, A and B, that are mutually exclusive. Assume further that we know Pr(A)=0.30 and Pr(B)=0.40. 
+
+Q: Compute Pr(A∪B)",0.7,0.6999,0.7001
+NULL,2,00:01:00,2,1,"The percentage of adult users of the Internet who use Facebook (FB) has increased over time. Of adult Internet users age 18~49, 81% use FB. Of adult Internet users age 50 and older, 54% use FB. Assume that 52% of adult Internet users are age 18~49.
+
+Q: What is the probability that a randomly selected adult user of the Internet is age 50 or older?",0.48,0.479,0.481
+NULL,2,00:01:00,2,0,"A university found that 10% of its students withdraw without completing the introductory statistics course. Assume that 40 students registered for the course.
+
+Q: Compute the probability that 3 or fewer will withdraw.",0.423,0.41,0.43
+NULL,2,00:01:00,1,0,"A university found that 10% of its students withdraw without completing the introductory statistics course. Assume that 40 students registered for the course.
+
+Q: Compute the probability that exactly 5 will withdraw.",0.1647,0.16,0.17
+NULL,2,00:01:00,1,0,"A university found that 10% of its students withdraw without completing the introductory statistics course. Assume that 40 students registered for the course.
+
+Q: Compute the probability that more than 6 will withdraw.",0.0995,0.09,0.1
+NULL,2,00:01:00,2,2,"A university found that 10% of its students withdraw without completing the introductory statistics course. Assume that 40 students registered for the course.
+
+Q: Compute the expected number of withdrawals.",4,3.9,4.1
+NULL,2,00:01:00,0,0,"Two of the cylinders in an eight-cylinder car are defective and need to be replaced. 
+
+Q: If two cylinders are selected at random, what is the probability that both defective cylinders are selected?",0.0357,0.03,0.04
+NULL,2,00:01:00,0,0,"Two of the cylinders in an eight-cylinder car are defective and need to be replaced. 
+
+Q: If two cylinders are selected at random, what is the probability that no defective cylinder is selected?",0.5357,0.53,0.54
+NULL,2,00:01:00,1,0,"Two of the cylinders in an eight-cylinder car are defective and need to be replaced. 
+
+Q: If two cylinders are selected at random, what is the probability that at least one defective cylinder is selected?",0.4643,0.46,0.47
+NULL,2,00:01:00,1,1,"In a poker hand consisting of 5 cards, find the probability of holding 3 aces.",0.0017,0.001,0.002
+NULL,2,00:01:00,2,1,"In a poker hand consisting of 5 cards, find the probability of holding 4 hearts and 1 club.",0.00357,0.003,0.004
+NULL,2,00:01:00,0,0,"For married couples living in a certain suburb, the probability that the husband will vote on a bond referendum is 0.21, the probability that the wife will vote on the referendum is 0.28, and the probability that both the husband and the wife will vote is 0.15. 
+
+Q: What is the probability that at least one member of a married couple will vote?",0.34,0.33,0.35
+NULL,2,00:01:00,1,1,"Seventy percent of the students applying to a university are accepted.（申請某大學的學生中有70％被錄取）
+
+Q:  What is the probability that among the next 18 applicants at least 6 will be accepted? (在接下來的18名申請人中至少6名被錄取的機率為何？)",0.9997,0.99,1
+NULL,2,00:01:00,3,0,"Seventy percent of the students applying to a university are accepted.（申請某大學的學生中有70％被錄取）
+
+Q:  What is the probability that among the next 18 applicants exactly 5 will be rejected? (在接下來的18名申請人中剛好5名被拒絕的機率為何？)",0.2017,0.2,0.21
+NULL,2,00:01:00,2,0,"Seventy percent of the students applying to a university are accepted.（申請某大學的學生中有70％被錄取）
+
+Q:  What is the standard deviation of the accepted number among the next 18 applicants?",1.9442,1.9,2
+NULL,2,00:01:00,2,0,"Let X represents the number that occurs when a green die is tossed and Y the number that occurs when a red die is tossed. Find the mean and variance of the random variable （設X表示拋擲綠色骰子時得到的數字，Y表示拋擲紅色骰子時得到的數字。）
+
+Q: Compute E((X+Y)/2)",3.5,3.4,3.6
+NULL,2,00:01:00,0,0,"Let X represents the number that occurs when a green die is tossed and Y the number that occurs when a red die is tossed. Find the mean and variance of the random variable （設X表示拋擲綠色骰子時得到的數字，Y表示拋擲紅色骰子時得到的數字。）
+
+Q: Compute E((X-3Y+5)",-2,-2.1,-1.9
+NULL,2,00:01:00,0,0,"Consider a sample with data values of 27, 25, 20, 15, 30, 34, 28, and 25. 
+
+Q: Compute the 75th percentile of the data.",29.5,29.1,29.6
+NULL,2,00:01:00,2,1,"Consider a sample with data values of 27, 25, 20, 15, 30, 34, 28, and 25. 
+
+Q: Compute the 25th percentile of the data.",21.25,21.1,21.4
+NULL,2,00:01:00,1,1,"In a high school graduating class of 100 students, 54 studied mathematics, 69 studied history, and 35 studied both mathematics and history.
+
+Q:  If one of these students is selected at random, find the probability that the student did not take either of these subjects;",0.12,0.11,0.13
+NULL,2,00:01:00,0,0,"In a high school graduating class of 100 students, 54 studied mathematics, 69 studied history, and 35 studied both mathematics and history.
+
+Q:  If one of these students is selected at random, find the probability that the student took history but not mathematics.",0.34,0.33,0.35
+NULL,2,00:01:00,0,0,"A random sample of 200 adults are classified below by sex and their level of education attained.
+Education   Male   Female
+Elementary   38     45
+Secondary   28     50
+College   22     17
+
+Q: If a person is picked at random from this group, find the probability that the person is a male, given that the person has a secondary education.",0.359,0.35,0.36
+NULL,2,00:01:00,1,1,"A random sample of 200 adults are classified below by sex and their level of education attained.
+Education   Male   Female
+Elementary   38     45
+Secondary   28     50
+College   22     17
+
+Q: If a person is picked at random from this group, find the probability that the person does not have a college degree, given that the person is a female.",0.8482,0.84,0.85
+NULL,2,00:01:00,3,1,"The probability that a vehicle entering the Luray Caverns has Canadian license plates is 0.12; the probability that it is a camper is 0.28; and the probability that it is a camper with Canadian license plates is 0.09. 
+
+Q: What is the probability that a camper entering the Luray Caverns has Canadian license plates? ",0.3214,0.31,0.33
+NULL,2,00:01:00,1,0,"The probability that a vehicle entering the Luray Caverns has Canadian license plates is 0.12; the probability that it is a camper is 0.28; and the probability that it is a camper with Canadian license plates is 0.09. 
+
+Q: What is the probability that a vehicle with Canadian license plates entering the Luray Caverns is a camper?",0.75,0.74,0.76
+NULL,2,00:01:00,2,2,"The probability that a vehicle entering the Luray Caverns has Canadian license plates is 0.12; the probability that it is a camper is 0.28; and the probability that it is a camper with Canadian license plates is 0.09. 
+
+Q: What is the probability that a vehicle entering the Luray Caverns does not have Canadian plates or is not a camper?",0.91,0.9,0.92
+NULL,2,00:01:00,1,1,"Three cards are drawn in succession, without replacement, from an ordinary deck of playing cards. A1 is the event that the first card is a red ace, A2 is the event that the second card is a 10 or a jack, and A3 is the event that the third card is greater than 3 but less than 7. 
+
+Q: Find the probability Pr(A2 | A1)",0.157,0.153,0.16
+NULL,2,00:01:00,1,0,"Three cards are drawn in succession, without replacement, from an ordinary deck of playing cards. A1 is the event that the first card is a red ace, A2 is the event that the second card is a 10 or a jack, and A3 is the event that the third card is greater than 3 but less than 7. 
+
+Q: Find the probability Pr(A2)",0.154,0.15,0.16
+NULL,2,00:01:00,4,1,"Three cards are drawn in succession, without replacement, from an ordinary deck of playing cards. A1 is the event that the first card is a red ace, A2 is the event that the second card is a 10 or a jack, and A3 is the event that the third card is greater than 3 but less than 7. 
+
+Q: Find the probability Pr(A1∪A2)",0.186,0.18,0.19
+NULL,2,00:01:00,3,1,"Three cards are drawn in succession, without replacement, from an ordinary deck of playing cards. A1 is the event that the first card is a red ace, A2 is the event that the second card is a 10 or a jack, and A3 is the event that the third card is greater than 3 but less than 7. 
+
+Q: Find the probability Pr(A1∩A2∩A3 )",0.0014,0.001,0.002
+NULL,2,00:01:00,2,1,"It is known that 60% of mice inoculated with a serum are protected from a certain disease. If 5 mice are inoculated, find the probability that (已知接种血清的小鼠中有60％會受到某種疾病的保護。如果接種了5隻小鼠)
+
+Q: find the probability that none contracts the disease（算出沒有任何感染疾病的機率） ",0.0778,0.07,0.08
+NULL,2,00:01:00,1,1,"It is known that 60% of mice inoculated with a serum are protected from a certain disease. If 5 mice are inoculated, find the probability that (已知接种血清的小鼠中有60％會受到某種疾病的保護。如果接種了5隻小鼠)
+
+Q: find the probability that fewer than 2 contract the disease（算出少於2隻感染疾病的機率） ",0.337,0.3,0.35
+NULL,2,00:01:00,3,1,"If two balanced dice are rolled, what is the probability that the sum of the two numbers that appear will be odd?",0.5,0.5,0.5
+NULL,2,00:01:00,3,3,"Consider an experiment in which a fair coin is tossed once and a balanced die is rolled once. What is the size of the sample space for this experiment?",12,12,12
+NULL,2,00:01:00,1,1,"In how many different ways can the five letters a, b, c, d, and e be arranged?",120,120,120
+NULL,2,00:01:00,0,0,"If a man has six different sport shirts and four different pairs of slacks, how many different combinations can he wear?",24,24,24
+NULL,2,00:01:00,3,2,"Two pollsters will canvas a neighborhood with 20 houses. Each pollster will visit 10 of the houses. How many different assignments of pollsters to houses are possible?",184756,184700,184800
+NULL,2,00:01:00,0,0,"A box contains 24 light bulbs, of which four are defective. If a person selects four bulbs from the box at random, without replacement, what is the probability that all four bulbs will be defective?",0.000094,0,0.0001
+NULL,2,00:01:00,1,0,"If n letters are placed at random in n envelopes, what is the probability that exactly n - 1 letters will be placed in the correct envelopes?",0,0,0
+NULL,2,00:01:00,2,2,"If A and B are disjoint events and Pr(B) > 0, what is the value of Pr(A|B)?",0,0,0
+NULL,2,00:01:00,2,1,"A box contains three cards. One card is red on both sides, one card is green on both sides, and one card is red on one side and green on the other. One card is selected from the box at random, and the color on one side is observed. If this side is green, what is the probability that the other side of the card is also green?",0.6667,0.66,0.67
+NULL,2,00:01:00,0,0,"Suppose that a box contains one blue card and four red cards, which are labeled A, B, C, and D. Suppose also that two of these five cards are selected at random, without replacement. If it is known that card A has been selected, what is the probability that both cards are red?",0.75,0.75,0.75
+NULL,2,00:01:00,0,0,"Suppose that a box contains one blue card and four red cards, which are labeled A, B, C, and D. Suppose also that two of these five cards are selected at random, without replacement. If it is known that at least one red card has been selected, what is the probability that both cards are red?",0.6,0.6,0.6
+NULL,2,00:01:00,2,1,"Suppose that 10,000 tickets are sold in one lottery and 5000 tickets are sold in another lottery. If a person owns 100 tickets in each lottery, what is the probability that she will win at least one first prize?",0.0298,0.029,0.03
+NULL,2,00:01:00,1,1,"Two students A and B are both registered for a certain course. Assume that student A attends class 80 percent of the time, student B attends class 60 percent of the time, and the absences of the two students are independent. What is the probability that at least one of the two students will be in class on a given day?",0.92,0.91,0.93
+NULL,2,00:01:00,1,1,"If three balanced dice are rolled, what is the probability that all three numbers will be the same?",0.02778,0.027,0.028
+NULL,2,00:01:00,1,0,"Suppose that A, B, and C are three independent events such that Pr(A) = 1/4, Pr(B) = 1/3, and Pr(C) = 1/2. Determine the probability that exactly one of these three events will occur.",0.4583,0.45,0.46
+NULL,2,00:01:00,2,0,"Suppose that the probability that any particle emitted by a radioactive material will penetrate a certain shield is 0.01. If 10 particles are emitted, what is the probability that exactly one of the particles will penetrate the shield?",0.09135,0.091,0.092
+NULL,2,00:01:00,3,1,"Suppose that the probability that any particle emitted by a radioactive material will penetrate a certain shield is 0.01. If 10 particles are emitted, what is the probability that at least one of the particles will penetrate the shield?",0.09562,0.095,0.096
+NULL,2,00:01:00,0,0,"In the World Series of baseball, two teams A and B play a sequence of games against each other, and the first team that wins a total of four games becomes the winner of the World Series. If the probability that team A will win any particular game against team B is 1/3, what is the probability that team A will win the World Series?",0.1733,0.17,0.18
+NULL,2,00:01:00,1,0,"Suppose that the probability that a certain experiment will be successful is 0.4, and let X denote the number of successes that are obtained in 15 independent performances of the experiment. Determine the value of Pr(6 ≦ X ≦ 9).",0.563,0.56,0.57
+NULL,2,00:01:00,2,2,"Three men A, B, and C shoot at a target. Suppose that A shoots three times and the probability that he will hit the target on any given shot is 1/8, B shoots five times and the probability that he will hit the target on any given shot is 1/4, and C shoots twice and the probability that he will hit the target on any given shot is 1/2.What is the expected number of times that the target will be hit?",2.625,2.62,2.63
+NULL,2,00:01:00,1,0,"Suppose that on a given weekend the number of accidents at a certain intersection has the Poisson distribution with mean 0.7. What is the probability that there will be at least three accidents at the intersection during the weekend?",0.03414,0.034,0.035
+NULL,2,00:01:00,0,0,"Suppose that the number of defects on a bolt of cloth produced by a certain process has the Poisson distribution with mean 0.4. If a random sample of five bolts of cloth is inspected, what is the probability that the total number of defects on the five bolts will be at least 6?",0.01656,0.016,0.017
+NULL,2,00:01:00,1,0,"Suppose that in a certain book there are on the average 0.5 misprints per page and that misprints occurred according to a Poisson process. What is the probability that a particular page will contain no misprints?",0.6065,0.6,0.61
+NULL,2,00:01:00,3,0,"Suppose that a certain type of magnetic tape contains on the average three defects per 1000 feet. What is the probability that a roll of tape 1200 feet long contains no defects?",0.0273,0.027,0.028
+NULL,2,00:01:00,1,0,"Suppose that on the average a certain store serves 15 customers per hour. What is the probability that the store will serve more than 20 customers in a particular two-hour period?",0.9647,0.96,0.97
+NULL,2,00:01:00,1,0,"Suppose that the proportion of colorblind people in a certain population is 0.005. What is the probability that there will not be more than one colorblind person in a randomly chosen group of 600 people?",0.1992,0.19,0.2
+NULL,2,00:01:00,2,0,"The probability of triplets in human births is approximately 0.001. What is the probability that there will be exactly one set of triplets among 700 births in a large hospital?",0.3476,0.34,0.35
+NULL,2,00:01:00,1,0,"An airline sells 200 tickets for a certain flight on an airplane that has only 198 seats because, on the average, 1 percent of purchasers of airline tickets do not appear for the departure of their flight. Determine the probability that everyone who appears for the departure of this flight will have a seat.",0.594,0.59,0.6
+NULL,2,00:01:00,1,0,"An insurance company looks at its auto insurance customers and finds that (a) all insure at least one car, (b) 85% insure more than one car, (c) 23% insure a sports car, and (d) 17% insure more than one car, including a sports car. Find the probability that a customer selected at random insures exactly one car and it is not a sports car.",0.09,0.89,0.91
+NULL,2,00:01:00,1,1,"If Pr(A) = 0.4, Pr(B) = 0.5, and Pr(A ∩ B) = 0.3, find Pr(A ∪ B).",0.6,0.59,0.61
+NULL,2,00:01:00,1,1,"If Pr(A) = 0.4, Pr(B) = 0.5, and Pr(A ∩ B) = 0.3, find Pr(A ∩ B').",0.1,0.09,0.11
+NULL,2,00:01:00,1,0,"If Pr(A) = 0.4, Pr(B) = 0.5, and Pr(A ∩ B) = 0.3, find Pr(A' ∪ B').",0.7,0.69,0.71
+NULL,2,00:01:00,1,0,"Given that Pr(A ∪ B) = 0.76 and Pr(A' ∪ B) = 0.87, find Pr(A).",0.13,0.12,0.14
+NULL,2,00:01:00,2,1,"During a visit to a primary care physician’s office, the probability of having neither lab work nor referral to a specialist is 0.21. Of those coming to that office, the probability of having lab work is 0.41 and the probability of having a referral is 0.53.What is the probability of having both lab work and a referral?",0.15,0.14,0.16
+NULL,2,00:01:00,1,0,"Let x equal a number that is selected randomly from the closed interval from zero to one, [0, 1]. Use your intuition to assign values to Pr(x: 0 ≦ x ≦ 1/3).",0.3333,0.3,0.4
+NULL,2,00:01:00,3,3,"Let x equal a number that is selected randomly from the closed interval from zero to one, [0, 1]. Use your intuition to assign values to Pr(x: 1/2 ≦ x ≦ 5).",0.5,0.49,0.51
+NULL,2,00:01:00,2,1,"Two cards are drawn successively and without replacement from an ordinary deck of playing cards. 
+
+Q: Compute the probability of drawing a heart on the first draw and a club on the second draw.",0.0637,0.063,0.064
+NULL,2,00:01:00,0,0,"Let Pr(A) = 0.3 and Pr(B) = 0.6. 
+
+Q: Find Pr(A∪B) when A and B are independent.",0.72,,
+NULL,2,00:01:00,1,0,"Let Pr(A) = 0.3 and Pr(B) = 0.6. 
+
+Q: Find Pr(A|B) when A and B are mutually exclusive.",0,,
+NULL,2,00:01:00,0,0,"Bean seeds from supplier A have an 85% germination rate and those from supplier B have a 75% germination rate. A seed-packaging company purchases 40% of its bean seeds from supplier A and 60% from supplier B and mixes these seeds together. 
+
+Q: Find the probability Pr(G) that a seed selected at random from the mixed seeds will germinate.",0.79,0.78,0.8
+NULL,2,00:01:00,1,0,"f(x) = x/c, x = 1, 2, 3, 4. 
+Determine the constant c so that f(x) satisfies the conditions of being a p.m.f. for a random variable X.",10,10,10
+NULL,2,00:01:00,3,0,"f(x) = cx, x = 1, 2, 3, . . . , 10. 
+Determine the constant c so that f(x) satisfies the conditions of being a p.m.f. for a random variable X.",0.0182,0.017,0.019
+NULL,2,00:01:00,1,0,"Let the random variable X have the p.m.f.
+f(x) = (|x|+1)^2 / 9, x = -1, 0, 1.
+
+Q: Compute E(X)",0,0,0
+NULL,2,00:01:00,2,0,"Let the random variable X have the p.m.f.
+f(x) = (|x|+1)^2 / 9, x = -1, 0, 1.
+
+Q: Compute E(X^2)",0.8889,0.88,0.89
+NULL,2,00:01:00,2,2,"Suppose that a school has 20 classes: 16 with 25 students in each, three with 100 students in each, and one with 300 students, for a total of 1000 students.
+
+Q: What is the average class size?",50,50,50
+NULL,2,00:01:00,0,0,"Given E(X + 4) = 10 and E[(X + 4)^2] = 116, determine Var(X + 4).",16,16,16
+NULL,2,00:01:00,2,0,"Given E(X + 4) = 10 and E[(X + 4)^2] = 116, determine σ^2 =Var(X).",16,16,16
+NULL,2,00:01:00,2,1,"A boiler has four relief valves. The probability that each opens properly is 0.99. 
+
+Q: Find the probability that at least one opens properly.",1,0.9999,1
+NULL,2,00:01:00,0,0,"A boiler has four relief valves. The probability that each opens properly is 0.99. 
+
+Q: Find the probability that all four open properly.",0.9606,0.96,0.97
+NULL,2,00:01:00,2,1,"A certain type of mint has a label weight of 20.4 grams. Suppose that the probability is 0.90 that a mint weighs more than 20.7 grams. Let X equal the number of mints that weigh more than 20.7 grams in a sample of eight mints selected at random. 
+
+Q: Find Pr(X≦6)",0.1869,0.18,0.19
+NULL,2,00:01:00,2,2,"Let X have a Poisson distribution with a variance of 3. Find Pr(X = 2).",0.224,0.22,0.23
+NULL,2,00:01:00,2,1,"A certain type of aluminum screen that is 2 feet wide has, on the average, one flaw in a 100-foot roll.
+
+Q: Find the probability that a 50-foot roll has no flaws.",0.6065,0.6,0.61
+NULL,2,00:01:00,1,0,"Flaws in a certain type of drapery material appear on the average of one in 150 square feet. If we assume a Poisson distribution, find the probability of at most one flaw appearing in 225 square feet.",0.5578,0.55,0.56
+NULL,2,00:01:00,2,1,"Suppose that the probability of suffering a side effect from a certain flu vaccine is 0.005. If 1000 persons are inoculated, find the approximate probability that at most 1 person suffers.",0.04,0.03,0.05
+NULL,2,00:01:00,3,0,"Let A and B be two events in a sample space for which Pr(A) = 2/3, Pr(B) = 1/6, and Pr(A∩B) = 1/9. What is Pr(A∪B)?",0.7222,0.72,0.73
+NULL,2,00:01:00,0,0,"Let C and D be two events for which one knows that Pr(C) = 0.3, Pr(D) = 0.4, and Pr(C∩D) = 0.2. What is Pr(C '∩D)?",0.2,0.19,0.21
+NULL,2,00:01:00,3,1,"When Pr(A) = 1/3, Pr(B) = 1/2, and Pr(A∪B) = 3/4, what is Pr(A∩B)?",0.0833,0.083,0.084
+NULL,2,00:01:00,1,0,"When P(A)r = 1/3, Pr(B) = 1/2, and Pr(A∪B) = 3/4, what is Pr(A' ∪ B')?",0.9167,0.91,0.92
+NULL,2,00:01:00,4,3,"Let A and B be two events. Suppose that Pr(A) = 0.4, Pr(B) = 0.5, and Pr(A∩B) = 0.1. Find the probability that A or B occurs, but not both.",0.7,0.69,0.71
+NULL,2,00:01:00,3,0,"Let E and F be two events for which one knows that the probability that at least one of them occurs is 3/4. What is the probability that neither E nor F occurs?",0.25,0.25,0.25
+NULL,2,00:01:00,1,0,"We draw two cards from a regular deck of 52. Let S1 be the event “the first one is a spade,” and S2 “the second one is a spade.” Compute Pr(S2 | S1’).",0.2549,0.25,0.26
+NULL,2,00:01:00,1,0,"We draw two cards from a regular deck of 52. Let S1 be the event “the first one is a spade,” and S2 “the second one is a spade.” Compute Pr(S2) by conditioning on whether the first card is a spade.",0.25,0.24,0.26
+NULL,2,00:01:00,2,0,"Let X be a discrete random variable with probability mass function p given by:
+x  f(x)
+-1  0.25 
+0  0.125
+1  0.125
+2  0.5
+Let the random variable Y be defined by Y = X^2, i.e., if X = 2, then Y = 4. Calculate the probability of Pr(Y=1).",0.5,0.5,0.5
+NULL,2,00:01:00,0,0,"For simplicity’s sake, let us assume that all space shuttles will be launched at 81?F.With this temperature, the probability of an O-ring failure is equal to Pr(81) = 0.0137. What is the probability that during 23 launches no O-ring will fail, but that at least one O-ring will fail during the 24th launch of a space shuttle?",0.0118,0.011,0.012
+NULL,2,00:01:00,1,0,"For simplicity’s sake, let us assume that all space shuttles will be launched at 81?F.With this temperature, the probability of an O-ring failure is equal to p(81) = 0.0137. What is the probability that no O-ring fails during 24 launches?",0.1372,0.13,0.14
+NULL,2,00:01:00,0,0,"We throw a coin until a head turns up for the second time, where p=0.4 is the probability that a throw results in a head and we assume that the outcome of each throw is independent of the previous outcomes. Let X be the number of times we have thrown the coin. Determine Pr(X = 3).",0.192,0.19,0.2
+NULL,2,00:01:00,3,2,"A lot contains 15 castings from a local supplier and 25castings from a supplier in the next state. Two castings are selected randomly, without replacement, from the lot of 40. Let A be the event that the casting selected is from the local supplier, and let B denote the event that the second casting is selected from the local supplier. Determine Pr(B|A)= ",0.359,0.35,0.36
+NULL,2,00:01:00,2,1,"A lot contains 15 castings from a local supplier and 25 castings from a supplier in the next state. Two castings are selected randomly, without replacement, from the lot of 40. Let A be the event that the casting selected is from the local supplier, and let B denote the event that the second casting is selected from the local supplier. Determine Pr(A∩B)= ",0.135,0.13,0.14
+NULL,2,00:01:00,1,0,"A lot contains 15 castings from a local supplier and 25 castings from a supplier in the next state. Two castings are selected randomly, without replacement, from the lot of 40. Let A be the event that the casting selected is from the local supplier, and let B denote the event that the second casting is selected from the local supplier. Determine Pr(A∪B)= ",0.599,0.5,0.6
+NULL,2,00:01:00,1,0,"A lot contains 15 castings from a local supplier and 25 castings from a supplier in the next state. Two castings are selected randomly, without replacement, from the lot of 40. Let A be the event that the casting selected is from the local supplier, and let B denote the event that the second casting is selected from the local supplier, let C denote the event that the third casting selected is from the local supplier. Pr(A∩B∩C)=",0.046,0.045,0.047
+NULL,2,00:01:00,1,0,"A lot contains 15 castings from a local supplier and 25castings from a supplier in the next state. Two castings are selected randomly, without replacement, from the lot of 40. Let A be the event that the casting selected is from the local supplier, and let B denote the event that the second casting is selected from the local supplier, let C denote the event that the third casting selected is from the local supplier. Pr(A∩B∩C’)=",0.0886,0.08,0.09
+NULL,2,00:01:00,1,1,"The probability is 1% that an electrical connector that is kept dry fails during the warranty period of a portable computer. If the connector is ever wet, the probability of a failure during the warranty period is 5%. If 90% of the connectors are kept dry and 10% are wet, what proportion of connectors fail during the warranty period?",0.014,0.01,0.015
+NULL,2,00:01:00,3,2,"Suppose 2% of cotton fabric rolls and 3% of nylon fabric rolls contain flaws. Of the rolls used by a manufacturer, 70% are cotton and 30% are nylon. What is the probability that a randomly selected roll used by the manufacturer contains flaws?",0.023,0.02,0.025
+NULL,2,00:01:00,2,1,"Samples of laboratory glass are in small, light packaging or heavy, large packaging. Suppose that 2 and 1% of the sample shipped in small and large packages, respectively, break during transit. If 60% of the samples are shipped in large packages and 40% are shipped in small packages, what proportion of samples break during shipment?",0.014,0.01,0.015
+NULL,2,00:01:00,0,0,"A batch of 25 injection-molded parts contains 5 that have suffered excessive shrinkage. If two parts are selected at random, and without replacement, what is the probability that the second part selected is one with excessive shrinkage?",0.2,0.2,0.2
+NULL,2,00:01:00,2,2,"A lot of 100 semiconductor chips contains 20 that are defective. Two are selected, at random, without replacement, from the lot. Determine the probability that the second chip selected is defective.",0.2,0.2,0.2
+NULL,2,00:01:00,0,0,"A lot of 100 semiconductor chips contains 20 that are defective. Three are selected, at random, without replacement, from the lot. Determine the probability that all are defective.",0.0071,0.007,0.01
+NULL,2,00:01:00,2,1,"In a test of a printed circuit board using a random test pattern, an array of 10 bits is equally likely to be 0 or 1. Assume the bits are independent. What is the probability that all bits are 1s?",0.00098,0.0009,0.001
+NULL,2,00:01:00,0,0,"In a test of a printed circuit board using a random test pattern, an array of 10 bits is equally likely to be 0 or 1. Assume the bits are independent. What is the probability that exactly five bits are 1s and five bits are 0s?",0.2461,0.24,0.25
+NULL,2,00:01:00,1,0,"Suppose that Pr(A | B)=0.7, Pr(A)=0.5, and Pr(B)=0.2. Determine Pr(B | A).",0.28,0.28,0.28
+NULL,2,00:01:00,0,0,"An inspector working for a manufacturing company has a 99% chance of correctly identifying defective items and a 0.5% chance of incorrectly classifying a good item as defective. The company has evidence that its line produces 0.9% of nonconforming items. What is the probability that an item selected for inspection is classified as defective?",0.0139,0.013,0.014
+NULL,2,00:01:00,1,0,"Customers are used to evaluate preliminary product designs. In the past, 95% of highly successful products received good reviews, 60% of moderately successful products received good reviews, and 10% of poor products received good reviews. In addition, 40% of products have been highly successful, 35% have been moderately successful, and 25% have been poor products. What is the probability that a product attains a good review?",0.615,0.61,0.62
+NULL,2,00:01:00,2,1,"The probability that a customer’s order is not shipped on time is 0.05. A particular customer places three orders, and the orders are placed far enough apart in time that they can be considered to be independent events. What is the probability that all are shipped on time?",0.8574,0.85,0.86
+NULL,2,00:01:00,1,1,"The probability that a customer’s order is not shipped on time is 0.05. A particular customer places three orders, and the orders are placed far enough apart in time that they can be considered to be independent events. What is the probability that exactly one is not shipped on time?",0.1354,0.13,0.14
+NULL,2,00:01:00,1,1,"The probability that a customer’s order is not shipped on time is 0.05. A particular customer places three orders, and the orders are placed far enough apart in time that they can be considered to be independent events. What is the probability that two or more orders are not shipped on time?",0.0073,0.007,0.008
+NULL,2,00:01:00,2,0,"A steel plate contains 20 bolts. Assume that 5 bolts are not torqued to the proper limit. Four bolts are selected at random, without replacement, to be checked for torque. What is the probability that all four of the selected bolts are torqued to the proper limit?",0.2817,0.28,0.285
+NULL,2,00:01:00,1,1,"A steel plate contains 20 bolts. Assume that 5 bolts are not torqued to the proper limit. Four bolts are selected at random, without replacement, to be checked for torque. What is the probability that at least one of the selected bolts is not torqued to the proper limit?",0.7183,0.71,0.72
+NULL,2,00:01:00,1,1,"The probability of getting through by telephone to buy concert tickets is 0.92. For the same event, the probability of accessing the vendor’s Web site is 0.95. Assume that these two ways to buy tickets are independent. What is the probability that someone who tries to buy tickets through the Internet and by phone will obtain tickets?",0.996,0.99,1
+NULL,2,00:01:00,1,0,"In an automated filling operation, the probability of an incorrect fill when the process is operated at a low speed is 0.001. When the process is operated at a high speed, the probability of an incorrect fill is 0.01. Assume the 30% of the containers are filled when the process is operated at a high speed and the remainder are filled when the process is operated at a low speed. What is the probability of an incorrectly filled container?",0.0037,0.003,0.004
+NULL,2,00:01:00,2,1,"An encryption-decryption system consists of three elements: encode, transmit, and decode. A faulty encode occurs in 0.5% of the messages processed, transmission errors occur in 1% of the messages, and a decode error occurs in0.1% of the messages. Assume the errors are independent. What is the probability of a completely defect-free message?",0.9841,0.98,0.99
+NULL,2,00:01:00,1,0,"An encryption-decryption system consists of three elements: encode, transmit, and decode. A faulty encode occurs in 0.5% of the messages processed, transmission errors occur in 1% of the messages, and a decode error occurs in0.1% of the messages. Assume the errors are independent. What is the probability of a message that has either an encode or a decode error?",0.006,0.006,0.007
+NULL,2,00:01:00,2,0,"It is known that two defective copies of a commercial software program were erroneously sent to a shipping lot that has now a total of 75 copies of the program. A sample of copies will be selected from the lot without replacement. If three copies of the software are inspected, determine the probability that exactly one of the defective copies will be found.",0.0778,0.07,0.08
+NULL,2,00:01:00,0,0,"It is known that two defective copies of a commercial software program were erroneously sent to a shipping lot that has now a total of 75 copies of the program. A sample of copies will be selected from the lot without replacement. If three copies of the software are inspected, determine the probability that both defective copies will be found. ",0.0011,0.001,0.0015
+NULL,2,00:01:00,0,0,"It is known that two defective copies of a commercial software program were erroneously sent to a shipping lot that has now a total of 75 copies of the program. A sample of copies will be selected from the lot without replacement. If 73 copies are inspected, determine the probability that both copies will be found. ",0.947,0.94,0.95
+NULL,2,00:01:00,1,0,"A robotic insertion tool contains 10 primary components. The probability that any component fails during the warranty period is 0.01. Assume that the components fail independently and that the tool fails if any component fails. What is the probability that the tool fails during the warranty period?",0.0956,0.095,0.096
+NULL,2,00:01:00,1,0,"A machine tool is idle 15% of the time. You request immediate use of the tool on five different occasions during the year. Assume that your requests represent independent events. What is the probability that the tool is idle at the time of all of your requests?",0.000076,0.00007,0.0001
+NULL,2,00:01:00,1,0,"A machine tool is idle 15% of the time. You request immediate use of the tool on five different occasions during the year. Assume that your requests represent independent events. What is the probability that the machine is idle at the time of exactly four of your requests?",0.0022,0.002,0.003
+NULL,2,00:01:00,1,0,"A machine tool is idle 15% of the time. You request immediate use of the tool on five different occasions during the year. Assume that your requests represent independent events. What is the probability that the tool is idle at the time of at least three of your requests?",0.0266,0.026,0.03
+NULL,2,00:01:00,1,0,"A lot of 50 spacing washers contains 30 washers that are thicker than the target dimension. Suppose that three washers are selected at random, without replacement, from the lot. What is the probability that all three washers are thicker than the target?",0.2071,0.2,0.21
+NULL,2,00:01:00,0,0,"A lot of 50 spacing washers contains 30 washers that are thicker than the target dimension. Suppose that three washers are selected at random, without replacement, from the lot. What is the probability that the third washer selected is thicker than the target if the first two washers selected are thinner than the target?",0.625,0.62,0.63
+NULL,2,00:01:00,5,2,"A lot of 50 spacing washers contains 30 washers that are thicker than the target dimension. Suppose that three washers are selected at random, without replacement, from the lot. What is the probability that the third washer selected is thicker than the target?",0.6,0.6,0.6
+NULL,2,00:01:00,0,0,"An order for a personal digital assistant can specify any one of five memory sizes, any one of three types of displayers, any one of four sizes of a hard disk, and can either include or not include a pen tablet. How many different systems can be ordered?",120,120,120
+NULL,2,00:01:00,1,1,"In a manufacturing operation, a part is produced by machining, polishing, and painting. If there are three machine tools, four polishing tools, and three painting tools, how many different routings (consisting of machining, followed by polishing, and followed by painting) for a part are possible?",36,36,36
+NULL,2,00:01:00,4,3,"New designs for a wastewater treatment tank have proposed three possible shapes, four possible sizes, three locations for input valves, and four locations for output valves. How many different product designs are possible?",144,144,144
+NULL,2,00:01:00,1,1,"A manufacturing process consists of 10 operations that can be completed in any order. How many different production sequences are possible?",3628800,3628800,3628800
+NULL,2,00:01:00,2,2,"A manufacturing operations consists of 10 operations. However, five machining operations must be completed before any of the remaining five assembly operations can begin. Within each set of five, operations can be completed in any order. How many different production sequences are possible?",14400,14400,14400
+NULL,2,00:01:00,1,1,"In a sheet metal operation, three notches and four bends are required. If the operations can be done in any order, how many different ways of completing the manufacturing are possible?",35,35,35
+NULL,2,00:01:00,1,0,"A lot of 140 semiconductor chips is inspected by choosing a sample of five chips. Assume 10 of the chips do not conform to customer requirements. How many different samples are possible?",416965528,416965528,416965528
+NULL,2,00:01:00,3,2,"A lot of 140 semiconductor chips is inspected by choosing a sample of five chips. Assume 10 of the chips do not conform to customer requirements. How many samples of five contain exactly one non-conforming chip?",113588800,113588800,113588800
+NULL,2,00:01:00,0,0,"A lot of 140 semiconductor chips is inspected by choosing a sample of five chips. Assume 10 of the chips do not conform to customer requirements. How many samples of five contain at least one non-conforming chip?",130721752,130721752,130721752
+NULL,2,00:01:00,0,0,"In the layout of a printed circuit board for an electronic product, there are 12 different locations that can accommodate chips. If the five chips that are placed on the board are of the same type, how many different layouts are possible?",792,792,792
+NULL,2,00:01:00,0,0,"In the design of an electromechanical product, seven different components are to be stacked into a cylindrical casing that holds 12 components in a manner that minimizes the impact of shocks. One end of the casing is designated as the bottom and the other end is the top. How many different designs are possible?",3991680,3991680,3991680
+NULL,2,00:01:00,3,0,"In the design of an electromechanical product, seven different components are to be stacked into a cylindrical casing that holds 12 components in a manner that minimizes the impact of shocks. One end of the casing is designated as the bottom and the other end is the top. If the seven components are all identical, how many different designs are possible?",792,792,792
+NULL,2,00:01:00,1,0,"In the design of an electromechanical product, seven different components are to be stacked into a cylindrical casing that holds 12 components in a manner that minimizes the impact of shocks. One end of the casing is designated as the bottom and the other end is the top. If the seven components consist of three of one type of component and four of another type, how many different designs are possible?",27720,27720,27720
+NULL,2,00:01:00,2,1,"A byte is a sequence of eight bits and each bit is either 0 or 1. How many different bytes are possible?",256,256,256
+NULL,2,00:01:00,3,1,"A byte is a sequence of eight bits and each bit is either 0 or 1. If the first bit of a byte is a parity check, that is, the first byte is determined from the other seven bits, how many different bytes are possible?",128,128,128
+NULL,2,00:01:00,1,0,"In a chemical plant, 24 holding tanks are used for final product storage. Four tanks are selected at random and without replacement. Suppose that six of the tanks contain material in which the viscosity exceeds the customer requirements. What is the probability that exactly one tank in the sample contains high viscosity material?",0.4608,0.46,0.461
+NULL,2,00:01:00,2,2,"In a chemical plant, 24 holding tanks are used for final product storage. Four tanks are selected at random and without replacement. Suppose that six of the tanks contain material in which the viscosity exceeds the customer requirements. What is the probability that at least one tank in the sample contains high viscosity material?",0.712,0.71,0.72
+NULL,2,00:01:00,1,1,"A bin of 50 parts contains five that are defective. A sample of two is selected at random, without replacement. Determine the probability that both parts in the sample are defective by computing a conditional probability.",0.0082,0.008,0.009
+NULL,3,00:01:00,1,0,"For a standard normal distribution, determine the probabilities of obtaining the following z values. It is helpful to draw a normal distribution for each case and show the corresponding area.
+
+Q:Between -1.8 to 1.8",0.9281,0.9081,0.9481
+NULL,3,00:01:00,1,1,"The average starting salary for this year's graduates at a large university (LU) is $35,000 with a standard deviation of $6,000. Furthermore, it is known that the starting salaries are normally distributed.
+
+Q:What is the probability that a randomly selected LU graduate will have a starting salary of at least $38,400?",0.2855,0.2655,0.3055
+NULL,3,00:01:00,0,0,"The monthly earnings of computer programmers are normally distributed with a mean of $4,000. If only 1.7 percent of programmers have monthly incomes of less than $2,834, what is the value of the standard deviation of the monthly earnings of the computer programmers?",550,548,552
+NULL,3,00:01:00,0,0,"The miles-per-gallon obtained by the 1995 model Z cars is normally distributed with a mean of 22 miles-per-gallon and a standard deviation of 5 miles-per-gallon.
+
+Q:What is the probability that a car will get between 13.35 and 35.1 miles-per-gallon?",0.9538,0.9338,0.9738
+NULL,3,00:01:00,0,0,"The ticket sales for events held at the new civic center are believed to be normally distributed with a mean of 15,000 and a standard deviation of 2,000.
+
+Q:What is the probability of selling between 11,500 and 17,000 tickets?",0.8013,0.7813,0.8213
+NULL,3,00:01:00,0,0,"The weights of items produced by a company are normally distributed with a mean of 4.5 ounces and a standard deviation of 0.3 ounces.
+
+Q:What is the probability that a randomly selected item from the production will weigh at least 4.25 ounces?",0.7977,0.7777,0.8177
+NULL,3,00:01:00,0,0,"The average starting salary of this year's graduates of a large university (LU) is $25,000 with a standard deviation of $5,000. Furthermore, it is known that the starting salaries are normally distributed.
+
+Q:What is the probability that a randomly selected LU graduate will have a starting salary of at least $31,000?",0.1151,0.0951,0.1351
+NULL,3,00:01:00,1,1,"The SAT scores of students are normally distributed with a mean of 950 and a standard deviation of 200.
+
+Q:There were 165 students who scored above 1432. How many students took the SAT?",20676,20476,20876
+NULL,3,00:01:00,0,0,"The contents of soft drink bottles are normally distributed with a mean of twelve ounces and a standard deviation of one ounce.
+
+Q:What is the probability that a randomly selected bottle will contain between 9.5 and 11 ounces?",0.1525,0.1325,0.1725
+NULL,3,00:01:00,0,0,"A professor at a local university noted that the grades of her students were normally distributed with a mean of 78 and a standard deviation of 10.
+
+Q:The professor has informed us that 18 percent of her students received grades of A. What is the minimum score needed to receive a grade of A?",87.15,85.15,89.15
+NULL,3,00:01:00,0,0,"A professor at a local university noted that the grades of her students were normally distributed with a mean of 78 and a standard deviation of 10.
+
+Q:If 12.1 percent of her students failed the course and received F's, what was the maximum score among those who received an F?",66.3,64.3,68.3
+NULL,3,00:01:00,0,0,"A professor at a local university noted that the grades of her students were normally distributed with a mean of 78 and a standard deviation of 10.
+
+Q:If 33 percent of the students received grades of B or better (i.e., A's and B's), what is the minimum score of those who received a B?",82.4,80.4,84.4
+NULL,3,00:01:00,1,0,"The weights of the contents of cans of tomato sauce produced by a company are normally distributed with a mean of 8 ounces and a standard deviation of 0.2 ounces.
+
+Q:Ninety-five percent of cans will contain at least how many ounces?",7.671,7.471,7.871
+NULL,3,00:01:00,1,0,"The ticket sales for events held at the new civic center are believed to be normally distributed with a mean of 15,000 and a standard deviation of 2,000.
+
+Q:What is the probability of selling between 13,500 and 17,000 tickets?",0.6147,0.5947,0.6347
+NULL,3,00:01:00,0,0,"A professor at a local community college noted that the grades of his students were normally distributed with a mean of 74 and a standard deviation of 10. The professor has informed us that 7.5 percent of his students received A's while only 2.25 percent of his students failed the course and received F's.
+
+Q:If there were 5 students who did not pass the course, how many students took the course?",222,120,224
+NULL,3,00:01:00,0,0,"'VITAMINS R US' is a large manufacturer of various kinds of liquid vitamins. The quality control department has noted that the bottles of vitamins marked 4 ounces vary in content with a standard deviation of 0.25 ounces. Assume the contents of the bottles are normally distributed.
+
+Q:Ninety-five percent of the bottles will contain at least how many ounces?",4.2,4,4.5
+NULL,3,00:01:00,0,0,"A professor at a local university noted that the grades of her students were normally distributed with a mean of 78 and a standard deviation of 10. The professor has informed us that 16.6 percent of her students received grades of A. 
+
+
+Q: What is the minimum score needed to receive a grade of A?",87.7,85,89
+NULL,3,00:01:00,1,0,"A small town has 5,600 residents. The residents in the town were asked whether or not they favored building a new bridge across the river. You are given the following information on the residents' responses, broken down by sex.
+
+ 	  Men	 Women	Total
+In Favor  1,400	  280	1,680
+Opposed	  840	  3,080	3,920
+Total	  2,240	  3,360	5,600
+
+Let:	M be the event a resident is a man
+ 	W be the event a resident is a woman
+ 	F be the event a resident is in favor
+ 	P be the event a resident is opposed
+
+Q:What is the probability that a randomly selected resident is a man and is in favor of building the bridge?",0.25,0.23,0.27
+NULL,3,00:01:00,0,0,"A small town has 5,600 residents. The residents in the town were asked whether or not they favored building a new bridge across the river. You are given the following information on the residents' responses, broken down by sex.
+
+ 	  Men	 Women	Total
+In Favor  1,400	 280	1,680
+Opposed	  840	 3,080	3,920
+Total	  2,240	 3,360	5,600
+
+Let:	M be the event a resident is a man
+ 	W be the event a resident is a woman
+ 	F be the event a resident is in favor
+ 	P be the event a resident is opposed
+
+Q:A randomly selected resident turns out to be male. Compute the probability that he is in favor of building the bridge.",0.625,0.605,0.645
+NULL,3,00:01:00,0,0,"The following table shows the number of students in three different degree programs and whether they are graduate or undergraduate students:
+
+ 	        Undergraduate	Graduate	Total
+Business	 150	        50	        200
+Engineering	 150	        25	        175
+Arts & Sciences	 100	        25	        125
+Total	         400	        100	        500
+
+Q:If we know that a selected student is an undergraduate, what is the probability that he or she is a business major?
+",0.375,0.355,0.395
+NULL,3,00:01:00,0,0,"The following table shows the number of students in three different degree programs and whether they are graduate or undergraduate students:
+
+ 	        Undergraduate	Graduate	Total
+Business	 150	        50	        200
+Engineering	 150	        25	        175
+Arts & Sciences	 100	        25	        125
+Total	         400	        100	        500
+
+Q:A student is enrolled in the Arts and Sciences school. What is the probability that the student is an undergraduate student?
+",0.8,0.78,0.82
+NULL,3,00:01:00,0,0,"台灣人口中血型O、A、B、與AB分別佔 43.6%、26.7%、23.7%、與6.0%。
+
+Q: 隨機抽樣10人，其中O型3人、A型4人、B型2人、AB型1人的機率為何？",0.0179,0.017,0.019
+NULL,3,00:01:00,1,0,"台灣人口中血型O、A、B、與AB分別佔 43.6%、26.7%、23.7%、與6.0%。
+
+Q: 隨機抽樣10人，其中O型及A型合計的人數不超過5人的機率為何？",0.1452,0.14,0.15
+NULL,3,00:01:00,0,0,"A group of 10 individuals is used for a biological case study. The group contains 3 people with blood type O, 4 with blood type A, and 3 with blood type B. 
+
+Q: What is the probability that a random sample of 5 will contain 1 person with blood type O, 2 people with blood type A, and 2 people with blood type B? ",0.2143,0.21,0.22
+NULL,3,00:01:00,1,0,"A group of 10 individuals is used for a biological case study. The group contains 3 people with blood type O, 4 with blood type A, and 3 with blood type B. 
+
+Q: What is the probability that a random sample of 5 will contain more than 2 people with blood type A?",0.2619,0.26,0.27
+NULL,3,00:01:00,1,0,"A life insurance company has determined that each week an average of seven claims is filed in its Nashville branch. 
+
+Q: What is the probability that during the next week exactly seven claims will be filed?",0.149,0.14,0.15
+NULL,3,00:01:00,1,0,"A life insurance company has determined that each week an average of seven claims is filed in its Nashville branch. 
+
+Q: What is the probability that during the next two weeks fewer than seven claims will be filed?",0.0142,0.014,0.015
+NULL,3,00:01:00,0,0,"一家石油鑽探公司探勘許多不同的地點，而在不同地點鑽探的成敗是互相獨立。假設在任何特定位置鑽探成功的機率是0.25，則
+
+Q: 在第十個地點進行鑽探並取得第三個成功的機率是多少？",0.0751,0.074,0.076
+NULL,3,00:01:00,2,0,"一家石油鑽探公司探勘許多不同的地點，而在不同地點鑽探的成敗是互相獨立。假設在任何特定位置鑽探成功的機率是0.25，則
+
+Q: 若鑽了十次還沒有一次成功，公司將會破產，則公司破產的機率為何？",0.0563,0.055,0.057
+NULL,3,00:01:00,2,1,"一家石油鑽探公司探勘許多不同的地點，而在不同地點鑽探的成敗是互相獨立。假設在任何特定位置鑽探成功的機率是0.25，則
+
+Q: 期待要鑽探幾次才能獲得第一次成功？",4,3.95,4.05
+NULL,3,00:01:00,0,0,"The percentage of adult users of the Internet who use Facebook (FB) has increased over time. Of adult Internet users age 18-49, 81% use FB. Of adult Internet users age 50 and older, 54% use FB. Assume that 52% of adult Internet users are age 18-49.
+
+Q: Given that an adult Internet user uses FB, what is the probability that he/she is age 18-49?",0.619,0.61,0.62
+NULL,3,00:01:00,0,0,"Given below is a bivariate distribution for the random variables x and y.
+f(x,y)     x     y
+0.5     5     8
+0.2     3     6
+0.3     2     5
+Q: Compute E(y-2x) ",-0.7,-0.75,-0.65
+NULL,3,00:01:00,0,0,"Given below is a bivariate distribution for the random variables x and y.
+f(x,y)     x     y
+0.5     5     8
+0.2     3     6
+0.3     2     5
+Q: Compute Var(y-2x)",1.81,1.8,1.82
+NULL,3,00:01:00,1,0,"Given below is a bivariate distribution for the random variables x and y.
+f(x,y)     x     y
+0.5     5     8
+0.2     3     6
+0.3     2     5
+Q: Compute the covariance of x and y.",1.81,1.8,1.82
+NULL,3,00:01:00,0,0,"Given below is a bivariate distribution for the random variables x and y.
+f(x,y)     x     y
+0.5     5     8
+0.2     3     6
+0.3     2     5
+Q: Compute the correlation of x and y.",1,0.99,1
+NULL,3,00:01:00,0,0,"The probabilities are 0.4, 0.2, 0.3, and 0.1, respectively, that a delegate to a certain convention arrived by air, bus, automobile, and train. 
+
+Q: What is the probability that among 9 delegates randomly selected at this convention, 3 arrived by air, 4 arrived by bus, 0 arrived by automobile, and 2 arrived by train?",0.00129,0.001,0.0013
+NULL,3,00:01:00,0,0,"The probabilities are 0.4, 0.2, 0.3, and 0.1, respectively, that a delegate to a certain convention arrived by air, bus, automobile, and train. 
+
+Q: What is the probability that among 9 delegates randomly selected at this convention, more than 3 arrived by air?",0.5174,0.5,0.54
+NULL,3,00:01:00,1,0,"The probabilities are 0.4, 0.2, 0.3, and 0.1, respectively, that a delegate to a certain convention arrived by air, bus, automobile, and train. 
+
+Q: What is the probability that among 9 delegates randomly selected at this convention, more than 3 arrived by air, and more than 2 arrived by bus?",0.0729,0.07,0.075
+NULL,3,00:01:00,0,0,"The following frequency distribution shows the ACT scores of a sample of students:
+Score Frequency
+14 - 18     2
+19 - 23     5
+24 - 28     12
+29 - 33     1
+
+Q:  Compute the mean",24,23,25
+NULL,3,00:01:00,0,0,"The following frequency distribution shows the ACT scores of a sample of students:
+Score Frequency
+14 - 18     2
+19 - 23     5
+24 - 28     12
+29 - 33     1
+
+Q:  Compute the standard deviation",3.77,3.6,3.8
+NULL,3,00:01:00,1,0,"The following frequency distribution shows the ACT scores of a sample of students:
+Score Frequency
+14 - 18     2
+19 - 23     5
+24 - 28     12
+29 - 33     1
+
+Q:  Compute the coefficient of variance",0.157,0.15,0.16
+NULL,3,00:01:00,2,1,"The flashlight batteries produced by one of the northern manufacturers are known to have an average life of 60 hours with a standard deviation of 4 hours. Use Chebyshev's theorem to answer the following questions.
+
+Q:  At least what probability of flashlights will have a life of 54 to 66 hours?",0.56,0.55,0.57
+NULL,3,00:01:00,1,0,"The flashlight batteries produced by one of the northern manufacturers are known to have an average life of 60 hours with a standard deviation of 4 hours. Use Chebyshev's theorem to answer the following questions.
+
+Q: At least what probability of the batteries will have a life of 52 to 68 hours?",0.75,0.74,0.76
+NULL,3,00:01:00,0,0,"A manufacturer of a flu vaccine is concerned about the quality of its flu serum. Batches of serum are processed by three different departments having rejection rates of 0.10, 0.08, and 0.12, respectively. The inspections by the three departments are sequential and independent.
+
+Q: What is the probability that a batch of serum survives the first departmental inspection but is rejected by the second department?",0.072,0.07,0.075
+NULL,3,00:01:00,0,0,"A manufacturer of a flu vaccine is concerned about the quality of its flu serum. Batches of serum are processed by three different departments having rejection rates of 0.10, 0.08, and 0.12, respectively. The inspections by the three departments are sequential and independent.
+
+Q: What is the probability that a batch of serum is rejected by the third department?",0.099,0.09,0.1
+NULL,3,00:01:00,0,0,"For married couples living in a certain suburb, the probability that the husband will vote on a bond referendum is 0.21, the probability that the wife will vote on the referendum is 0.28, and the probability that both the husband and the wife will vote is 0.15. 
+
+Q: What is the probability that a wife will vote, given that her husband will vote?",0.714,0.7,0.72
+NULL,3,00:01:00,0,0,"For married couples living in a certain suburb, the probability that the husband will vote on a bond referendum is 0.21, the probability that the wife will vote on the referendum is 0.28, and the probability that both the husband and the wife will vote is 0.15. 
+
+Q: What is the probability that a husband will vote, given that his wife will not vote?",0.833,0.8,0.85
+NULL,3,00:01:00,0,0,"Three people toss a fair coin and the odd one pays for coffee. If the coins all turn up the same, they are tossed again. （三個人決定投擲一個公正的銅板，擲出與其他二人不一樣的人就要請喝咖啡；若三人都擲出相同的情形，就再擲一次。）
+
+Q: Find the probability that fewer than 4 tosses are needed. 計算擲銅板次數少於4次就得出結果的機率。",0.9843,0.98,0.99
+NULL,3,00:01:00,0,0,"一家速食店由三名員工負責打包外帶的雞肉晚餐， John負責45％的晚餐，但4％沒有放鹽包；Mary負責25％的晚餐，但2％沒有放鹽包； Sue負責30％的晚餐，但3％未放包鹽包。你買了晚餐結果發現裡面沒有鹽包
+
+Q: 計算是John打理你的晚餐的機率",0.5625,0.55,0.57
+NULL,3,00:01:00,1,0,"一家速食店由三名員工負責打包外帶的雞肉晚餐， John負責45％的晚餐，但4％沒有放鹽包；Mary負責25％的晚餐，但2％沒有放鹽包； Sue負責30％的晚餐，但3％未放包鹽包。你買了晚餐結果發現裡面沒有鹽包
+
+Q: 計算是Mary打理你的晚餐的機率",0.15625,0.14,0.16
+NULL,3,00:01:00,0,0,"Let X represents the number that occurs when a green die is tossed and Y the number that occurs when a red die is tossed. Find the mean and variance of the random variable （設X表示拋擲綠色骰子時得到的數字，Y表示拋擲紅色骰子時得到的數字。）
+
+Q: Compute Var((X+Y)/2)",1.4583,1.4,1.5
+NULL,3,00:01:00,0,0,"Let X represents the number that occurs when a green die is tossed and Y the number that occurs when a red die is tossed. Find the mean and variance of the random variable （設X表示拋擲綠色骰子時得到的數字，Y表示拋擲紅色骰子時得到的數字。）
+
+Q: Compute Var((X-3Y+5)",29.1667,29,29.5
+NULL,3,00:01:00,1,0,"A manufacturer knows that on average 20% of the electric toasters produced require repairs within 1 year after they are sold. (製造商知道平均有20％的烤麵包機在售出後1年內需要維修，當隨機選擇20台烤麵包機時)
+
+Q: When 20 toasters are randomly selected, find appropriate numbers x such that the probability that at most x of them will require repairs is less than 0.5 ? (當隨機選擇20台烤麵包機時...)",3,3,3
+NULL,3,00:01:00,0,0,"A manufacturer knows that on average 20% of the electric toasters produced require repairs within 1 year after they are sold. (製造商知道平均有20％的烤麵包機在售出後1年內需要維修)
+
+Q: When 20 toasters are randomly selected, find appropriate numbers y such that the probability that at least y of them will not require repairs is greater than 0.8? (當隨機選擇20台烤麵包機時...)",15,15,15
+NULL,3,00:01:00,1,0,"A government task force suspects that some manufacturing companies are in violation of federal pollution regulations with regard to dumping a certain type of product. Twenty firms are under suspicion but not all can be inspected. Suppose that 3 of the firms are in violation. （政府稽查小組懷疑一些製造公司違反了污染法規在傾倒某種廢棄物。有20家公司受到懷疑，但並非每一家公司都可以接受檢查。假設其中有3家公司違規）
+
+Q: What is the probability that inspection of 5 firms will find no violations?（檢查5家公司但沒有發現違規的機率是多少？）",0.3991,0.38,0.4
+NULL,3,00:01:00,0,0,"A government task force suspects that some manufacturing companies are in violation of federal pollution regulations with regard to dumping a certain type of product. Twenty firms are under suspicion but not all can be inspected. Suppose that 3 of the firms are in violation. （政府稽查小組懷疑一些製造公司違反了污染法規在傾倒某種廢棄物。有20家公司受到懷疑，但並非每一家公司都可以接受檢查。假設其中有3家公司違規）
+
+Q: What is the probability that the plan above will find two violations? （上述情況發現2家違規的機率是多少？）",0.1316,0.13,0.135
+NULL,3,00:01:00,1,0,"A discrete probability distribution has a probability mass function f(x)=α/x, for x=1,2,3.
+
+Q: Compute α",0.5454,0.5,0.6
+NULL,3,00:01:00,0,0,"A discrete probability distribution has a probability mass function f(x)=α/x, for x=1,2,3.
+
+Q: Compute E(x)",1.6364,1.6,1.7
+NULL,3,00:01:00,0,0,"A discrete probability distribution has a probability mass function f(x)=α/x, for x=1,2,3.
+
+Q: Compute Var(x)",0.595,0.5,0.6
+NULL,3,00:01:00,1,1,"If a random variable X is defined such that E[(X - 1)^2] = 10 and E[(X - 2)^2] = 6
+
+Q: Compute E(X)",3.5,3.4,3.6
+NULL,3,00:01:00,0,0,"If a random variable X is defined such that E[(X - 1)^2] = 10 and E[(X - 2)^2] = 6
+
+Q: Compute Var(X)",3.75,3.7,3.8
+NULL,3,00:01:00,0,0,"If Pr(A)=0.3, Pr(E|A') = 0.5, Pr(A|E) = 0.1. Let Pr(E) = Pr(E∩A)+ Pr(E∩A')+0.1,
+
+Q: Compute Pr(E∩A)",0.05,0.045,0.055
+NULL,3,00:01:00,2,1,"If Pr(A)=0.3, Pr(E|A') = 0.5, Pr(A|E) = 0.1. Let Pr(E) = Pr(E∩A)+ Pr(E∩A')+0.1,
+
+Q: Compute Pr(E∩A)",0.1667,0.16,0.17
+NULL,3,00:01:00,0,0,"It is known that 60% of mice inoculated with a serum are protected from a certain disease. If 5 mice are inoculated, find the probability that (已知接种血清的小鼠中有60％會受到某種疾病的保護。如果接種了5隻小鼠)
+
+Q: find the probability that more than 1 but less than 4 contract the disease.",0.567,0.5,0.6
+NULL,3,00:01:00,1,0,"The probability that a doctor gets sues is 0.1 and the probability that a doctor correctly diagnoses a particular illness is 0.92. Given that the doctor makes an incorrect diagnosis, the probability that the patient files a lawsuit is 0.9. （醫生被告的機率為0.1，而醫生正確診斷出特定疾病的機率為0.92。假設醫生做出了錯誤的診斷，則被患者訴訟的機率為0.9。）
+
+Q: What is the probability that the doctor makes an incorrect diagnosis and the patient sues?（醫生診斷錯誤並且被告機率是多少？）",0.072,0.07,0.075
+NULL,3,00:01:00,1,0,"The probability that a doctor gets sues is 0.1 and the probability that a doctor correctly diagnoses a particular illness is 0.92. Given that the doctor makes an incorrect diagnosis, the probability that the patient files a lawsuit is 0.9. （醫生被告的機率為0.1，而醫生正確診斷出特定疾病的機率為0.92。假設醫生做出了錯誤的診斷，則被患者訴訟的機率為0.9。）
+
+Q: What is the probability that the patient does not sue given that the doctor makes an incorrect diagnosis?（在醫生誤診的情況下，患者不提告的機率是多少？）",0.1,0.09,0.11
+NULL,3,00:01:00,1,1,"The probability that a doctor gets sues is 0.1 and the probability that a doctor correctly diagnoses a particular illness is 0.92. Given that the doctor makes an incorrect diagnosis, the probability that the patient files a lawsuit is 0.9. （醫生被告的機率為0.1，而醫生正確診斷出特定疾病的機率為0.92。假設醫生做出了錯誤的診斷，則被患者訴訟的機率為0.9。）
+
+Q: What is the probability that the patient sues given that the doctor makes a correct diagnosis? （醫生做出正確診斷的情況下，被患者提告的機率是多少？）",0.0304,0.029,0.031
+NULL,3,00:01:00,0,0,"If X and Y are independent random variables with variances σx^2=5 and σy^2=3.
+
+Q: Compute the variance of the random variable Z = -2X+4Y- 3",68,67,69
+NULL,3,00:01:00,1,0,"A school contains students in grades 1, 2, 3, 4, 5, and 6. Grades 2, 3, 4, 5, and 6 all contain the same number of students, but there are twice this number in grade 1. If a student is selected at random from a list of all the students in the school, what is the probability that she will be in grade 3?",0.1429,0.14,0.145
+NULL,3,00:01:00,1,1,"If three fair coins are tossed, what is the probability that all three faces will be the same?",0.25,0.249,0.255
+NULL,3,00:01:00,1,1,"Consider an experiment in which a fair coin is tossed once and a balanced die is rolled once. What is the probability that a head will be obtained on the coin and an odd number will be obtained on the die?",0.25,0.25,0.25
+NULL,3,00:01:00,0,0,"Three different classes contain 20, 18, and 25 students, respectively, and no student is a member of more than one class. If a team is to be composed of one student from each of these three classes, in how many different ways can the members of the team be chosen?",9000,9000,9000
+NULL,3,00:01:00,0,0,"Suppose that 10 people are seated in a random manner in a row of 10 theater seats. What is the probability that two particular people A and B will be seated next to each other?",0.2,0.2,0.2
+NULL,3,00:01:00,0,0,"A box contains 24 light bulbs, of which two are defective. If a person selects 10 bulbs at random, without replacement, what is the probability that both defective bulbs will be selected?",0.163,0.162,0.164
+NULL,3,00:01:00,0,0,"Suppose that a committee of 12 people is selected in a random manner from a group of 100 people. Determine the probability that two particular people A and B will both be selected.",0.01333,0.013,0.014
+NULL,3,00:01:00,1,0,"Suppose that 100 mathematics students are divided into five classes, each containing 20 students, and that awards are to be given to 10 of these students. If each student is equally likely to receive an award, what is the probability that exactly two students in each class will receive awards?",0.0143,0.014,0.015
+NULL,3,00:01:00,0,0,"Three pollsters will canvas a neighborhood with 21 houses. Each pollster will visit seven of the houses. How many different assignments of pollsters to houses are possible?",399072960,399000000,399100000
+NULL,3,00:01:00,1,1,"Suppose that 4 red beads, 2 yellow beads, 4 blue beads, and 2 black beads are to be strung in a row. How many different arrangements of the colors can be formed?",207900,207500,208000
+NULL,3,00:01:00,1,0,"If the letters s, s, s, t , t , t , i, i, a, c are arranged in a random order, what is the probability that they will spell the word “statistics”?",0.00002,0,0.0001
+NULL,3,00:01:00,0,0,"Suppose that three compact discs are removed from their cases, and that after they have been played, they are put back into the three empty cases in a random manner. Determine the probability that at least one of the CD’s will be put back into the proper cases.",0.6667,0.66,0.67
+NULL,3,00:01:00,0,0,"If three letters are placed at random in three envelopes, what is the probability that exactly one letter will be placed in the correct envelope?",0.5,0.5,0.5
+NULL,3,00:01:00,1,1,"A box contains three coins with a head on each side, four coins with a tail on each side, and two fair coins. If one of these nine coins is selected at random and tossed once, what is the probability that a head will be obtained?",0.4444,0.4,0.5
+NULL,3,00:01:00,1,0,"Two students A and B are both registered for a certain course. Assume that student A attends class 80 percent of the time, student B attends class 60 percent of the time, and the absences of the two students are independent. If at least one of the two students is in class on a given day, what is the probability that A is in class that day?",0.8696,0.86,0.87
+NULL,3,00:01:00,0,0,"Suppose that A, B, and C are three independent events such that Pr(A) = 1/4, Pr(B) = 1/3, and Pr(C) = 1/2. Determine the probability that none of these three events will occur.",0.25,0.24,0.26
+NULL,3,00:01:00,1,0,"A box contains 20 red balls, 30 white balls, and 50 blue balls. Suppose that 10 balls are selected at random one at a time, with replacement; that is, each selected ball is replaced in the box before the next selection is made. Determine the probability that at least one color will be missing from the 10 selected balls.",0.1356,0.13,0.14
+NULL,3,00:01:00,1,1,"Suppose that a fair coin (probability of heads equals 1/2) is tossed independently 10 times. Find the probability that strictly more heads are obtained than tails.",0.377,0.37,0.38
+NULL,3,00:01:00,0,0,"Suppose that a box contains five red balls and ten blue balls. If seven balls are selected at random without replacement, what is the probability that at least three red balls will be obtained?",0.4266,0.42,0.43
+NULL,3,00:01:00,0,0,"Suppose that A and B are playing a tennis match in which the first player to win three sets wins the match. In how many ways could this tennis match end?",20,20,20
+NULL,3,00:01:00,1,0,"A box of candy hearts contains 52 hearts, of which 19 are white, 10 are tan, 7 are pink, 3 are purple, 5 are yellow, 2 are orange, and 6 are green. If you select nine pieces of candy randomly from the box, without replacement, give the probability that 3 of the hearts are white.",0.2917,2029,0.3
+NULL,3,00:01:00,0,0,"Two cards are drawn successively and without replacement from an ordinary deck of playing cards. 
+
+Q: Compute the probability of drawing 2 hearts.",0.0588,0.058,0.059
+NULL,3,00:01:00,0,0,"A single card is drawn at random from each of six well-shuffled decks of playing cards. Let A be the event that all six cards drawn are different. 
+
+Q: Find Pr(A).",0.7414,0.74,0.75
+NULL,3,00:01:00,1,1,"A single card is drawn at random from each of six well-shuffled decks of playing cards. Let A be the event that all six cards drawn are different. 
+
+Q: Find the probability that at least two of the drawn cards match.",0.2586,0.25,0.26
+NULL,3,00:01:00,0,0,"Bowl A contains three red and two white chips, and bowl B contains four red and three white chips. A chip is drawn at random from bowl A and transferred to bowl B. Compute the probability of then drawing a red chip from bowl B.",0.575,,
+NULL,3,00:01:00,0,0,"Die A has orange on one face and blue on five faces, Die B has orange on two faces and blue on four faces, Die C has orange on three faces and blue on three faces. All are fair dice. 
+
+Q: If the three dice are rolled, find the probability that exactly two of the three dice come up orange.",-0.2222,-0.23,-0.22
+NULL,3,00:01:00,1,0,"Bean seeds from supplier A have an 85% germination rate and those from supplier B have a 75% germination rate. A seed-packaging company purchases 40% of its bean seeds from supplier A and 60% from supplier B and mixes these seeds together. 
+
+Q: Given that a seed germinates, find the probability that the seed was purchased from supplier A.",0.4304,0.42,0.44
+NULL,3,00:01:00,0,0,"A store sells four brands of tablets. The least expensive brand, B1, accounts for 40% of the sales. The other brands (in order of their price) have the following percentages of sales: B2, 30%; B3, 20%; and B4, 10%. The respective probabilities of needing repair during warranty are 0.10 for B1, 0.05 for B2, 0.03 for B3, and 0.02 for B4. A randomly selected purchaser has a tablet that needs repair under warranty. 
+
+Q: What are the conditional probabilities of being brand B2?",0.2381,0.23,0.24
+NULL,3,00:01:00,0,0,"A test indicates the presence of a particular disease 90% of the time when the disease is present and the presence of the disease 2% of the time when the disease is not present. 
+
+Q: If 0.5% of the population has the disease, calculate the conditional probability that a person selected at random has the disease if the test indicates the presence of the disease.",0.1844,0.18,0.19
+NULL,3,00:01:00,2,1,"Two processes of a company produce rolls of materials: The rolls of Process I are 3% defective and the rolls of Process II are 1% defective. Process I produces 60% of the company's output, Process II 40%. A roll is selected at random from the total output. 
+
+Q: Given that this roll is defective, what is the conditional probability that it is from Process I?",0.8182,0.81,0.82
+NULL,3,00:01:00,0,0,"f (x) = c(x + 1)^2, x = 0, 1, 2, 3. 
+Determine the constant c so that f(x) satisfies the conditions of being a p.m.f. for a random variable X.",0.0333,0.03,0.035
+NULL,3,00:01:00,1,0,"Suppose there are 3 defective items in a lot (collection) of 50 items. A sample of size 10 is taken at random and without replacement. Let X denote the number of defective items in the sample. Find the probability that the sample contains exactly one defective item.",0.398,0.39,0.4
+NULL,3,00:01:00,0,0,"Suppose there are 3 defective items in a lot (collection) of 50 items. A sample of size 10 is taken at random and without replacement. Let X denote the number of defective items in the sample. Find the probability that the sample contains at most one defective item.",0.902,0.9,0.91
+NULL,3,00:01:00,1,1,"Often in buying a product at a supermarket, there is a concern about the item being underweight. Suppose there are 20 one-pound packages of frozen ground turkey on display and 3 of them are underweight. A consumer group buys 5 of the 20 packages at random. What is the probability of at least one of the five being underweight?",0.601,0.6,0.61
+NULL,3,00:01:00,2,0,"Let the random variable X have the p.m.f.
+f(x) = (|x|+1)^2 / 9, x = -1, 0, 1.
+
+Q: Compute E(3X^2 - 2X + 4)",6.6667,6.6,6.7
+NULL,3,00:01:00,0,0,"Suppose that a school has 20 classes: 16 with 25 students in each, three with 100 students in each, and one with 300 students, for a total of 1000 students. Select a student randomly out of the 1000 students. Let the random variable X equal the size of the class to which this student belongs.
+
+Q: Find E(X), the expected value of X.",130,129,131
+NULL,3,00:01:00,0,0,"The probability that a machine produces a defective item is 0.01. Each item is checked as it is produced. Assume that these are independent trials, and compute the probability that at least 100 items must be checked to find one that is defective.",0.3697,0.36,0.37
+NULL,3,00:01:00,0,0,"In the casino game chuck-a-luck, three fair six-sided dice are rolled. One possible bet is $1 on fives, and the payoff is equal to $1 for each five on that roll. In addition, the dollar bet is returned if at least one five is rolled. The dollar that was bet is lost only if no fives are rolled. Let X denote the payoff for this game. Then X can equal -l, l, 2, or 3. 
+
+Q: Compute μ",-0.0787,-0.08,-0.07
+NULL,3,00:01:00,0,0,"Compute the probability that the fifth head is observed on the tenth independent flip of a fair coin.",0.1231,0.12,0.13
+NULL,3,00:01:00,0,0,"Suppose an airport metal detector catches a person with metal 99% of the time. That is, it misses detecting a person with metal 1% of the time. Assume independence of people carrying metal.
+
+Q: What is the probability that the first metal-carrying person missed (not detected) is among the first 50 metal-carrying persons scanned?",0.395,0.39,0.4
+NULL,3,00:01:00,2,0,"The probability that a company's work force has no accidents in a given month is 0.7. The numbers of accidents from month to month are independent. What is the probability that the third month in a year is the first month that at least one accident occurs?",0.147,0.14,0.15
+NULL,3,00:01:00,3,1,"If X has a Poisson distribution such that 3Pr(X = 1) = Pr(X = 2), find Pr(X = 4)",0.1339,0.13,0.14
+NULL,3,00:01:00,0,0,"Suppose that the probability of suffering a side effect from a certain flu vaccine is 0.005. If 1000 persons are inoculated, find the approximate probability that 4, 5, or 6 persons suffer.",0.4982,0.49,0.5
+NULL,3,00:01:00,1,1,"The mean of a Poisson random variable X is μ = 9. Compute Pr(μ- 2σ < X < μ+ 2σ).",0.9373,0.93,0.94
+NULL,3,00:01:00,0,0,"A baseball team loses $100,000 for each consecutive day it rains. Say X, the number of consecutive days it rains at the beginning of the season, has a Poisson distribution with mean 0.2.
+
+Q: What is the expected loss before the opening game?",20000,20000,20000
+NULL,3,00:01:00,2,1,"An experiment has only two outcomes. The first has probability p to occur, the second probability p^2. What is p?",0.618,0.61,0.62
+NULL,3,00:01:00,0,0,"A fair die is thrown twice. A is the event “sum of the throws equals 4,” B is “at least one of the throws is a 3.” Calculate Pr(A | B).",0.1818,0.18,0.19
+NULL,3,00:01:00,0,0,"A ball is drawn at random from an urn containing one red and one white ball. If the white ball is drawn, it is put back into the urn. If the red ball is drawn, it is returned to the urn together with two more red balls. Then a second draw is made. What is the probability a red ball was drawn on both the first and the second draws?",0.3333,0.33,0.34
+NULL,3,00:01:00,2,0,"If Pr(A) = 1/3 and Pr(B | A' ) = 1/4, compute Pr(A∪B).",0.5,0.5,0.5
+NULL,3,00:01:00,2,1,"If P(A∪B) = 2/3 and P(A' | B' ) = 1/2, compute Pr(B).",0.3333,0.33,0.34
+NULL,3,00:01:00,0,0,"A certain grapefruit variety is grown in two regions in southern Spain. Both areas get infested from time to time with parasites that damage the crop. Let A be the event that region R1 is infested with parasites and B that region R2 is infested. Suppose Pr(A) = 3/4, Pr(B) = 2/5 and Pr(A∪B) = 4/5. If the food inspection detects the parasite in a ship carrying grapefruits from R1, what is the probability region R2 is infested as well?",0.4667,0.46,0.47
+NULL,3,00:01:00,0,0,"Two independent events A and B are given, and Pr(B | A ∪ B) = 2/3, Pr(A | B) = 1/2. What is Pr(B)?",0.5,0.5,0.5
+NULL,3,00:01:00,0,0,"Three events E, F, and G cannot occur simultaneously. Further it is known that Pr(E∩F) = Pr(F∩G) = Pr(E∩G) = 1/3. Determine Pr(E) = ?",0.6667,0.66,0.67
+NULL,3,00:01:00,0,0,"Spaceman Spiff’s spacecraft has a warning light that is supposed to switch on when the freem blasters are overheated. Let W be the event “the warning light is switched on” and F “the freem blasters are overheated.” Suppose the probability of freem blaster overheating Pr(F) is 0.1, that the light is switched on when they actually are overheated is 0.99, and that there is a 2% chance that it comes on when nothing is wrong: Pr(W | F') = 0.02. Determine the probability that the warning light is switched on.",0.117,0.11,0.12
+NULL,3,00:01:00,0,0,"Spaceman Spiff’s spacecraft has a warning light that is supposed to switch on when the freem blasters are overheated. Let W be the event “the warning light is switched on” and F “the freem blasters are overheated.” Suppose the probability of freem blaster overheating Pr(F) is 0.1, that the light is switched on when they actually are overheated is 0.99, and that there is a 2% chance that it comes on when nothing is wrong: Pr(W | F' ) = 0.02. Determine the probability that the warning light is switched on. Determine the conditional probability that the freem blasters are overheated, given that the warning light is on.",0.846,0.84,0.85
+NULL,3,00:01:00,0,0,"You and I play a tennis match. It is deuce, which means if you win the next two rallies, you win the game; if I win both rallies, I win the game; if we each win one rally, it is deuce again. Suppose the outcome of a rally is independent of other rallies, and you win a rally with probability p=0.4. Let W be the event “you win the game,” G “the game ends after the next two rallies,” and D “it becomes deuce again.” Determine Pr(W | G).",0.3077,0.3,0.31
+NULL,3,00:01:00,2,1,"A batch of 25 injection-molded parts contains 5 that have suffered excessive shrinkage. If three parts are selected at random, and without replacement, what is the probability that the third part selected is one with excessive shrinkage?",0.2,0.2,0.2
+NULL,3,00:01:00,0,0,"An inspector working for a manufacturing company has a 99% chance of correctly identifying defective items and a 0.5% chance of incorrectly classifying a good item as defective. If an item selected at random is classified as non-defective, what is the probability that it is indeed good?",0.9999,0.999,1
+NULL,3,00:01:00,1,1,"Customers are used to evaluate preliminary product designs. In the past, 95% of highly successful products received good reviews, 60% of moderately successful products received good reviews, and 10% of poor products received good reviews. In addition, 40% of products have been highly successful, 35% have been moderately successful, and 25% have been poor products. If a new design attains a good review, what is the probability that it will be a highly successful product?",0.6179,0.61,0.62
+NULL,3,00:01:00,0,0,"Customers are used to evaluate preliminary product designs. In the past, 95% of highly successful products received good reviews, 60% of moderately successful products received good reviews, and 10% of poor products received good reviews. In addition, 40% of products have been highly successful, 35% have been moderately successful, and 25% have been poor products. If a product does not attain a good review, what is the probability that it will be a highly successful product?",0.052,0.051,0.053
+NULL,3,00:01:00,0,0,"In an automated filling operation, the probability of an incorrect fill when the process is operated at a low speed is 0.001. When the process is operated at a high speed, the probability of an incorrect fill is 0.01. Assume the 30% of the containers are filled when the process is operated at a high speed and the remainder are filled when the process is operated at a low speed. If an incorrectly filled container is found, what is the probability that it was filled during the high-speed operation?",0.8108,0.81,0.82
+NULL,3,00:01:00,0,0,"In the layout of a printed circuit board for an electronic product, there are 12 different locations that can accommodate chips. If five different types of chips are to be placed on the board, how many different layouts are possible?",95040,95040,95040
+NULL,3,00:01:00,0,0,"In a chemical plant, 24 holding tanks are used for final product storage. Four tanks are selected at random and without replacement. Suppose that six of the tanks contain material in which the viscosity exceeds the customer requirements. In addition to the six tanks with high viscosity levels, four different tanks contain material with high impurities. What is the probability that exactly one tank in the sample contains high viscosity material and exactly one tank in the sample contains material with high impurities?",0.2055,0.2,0.21
+NULL,4,00:01:00,1,1,"As a student drives to school, he encounters a traffic signal. This traffic signal stays green for 35 seconds, yellow for 5 seconds, and red for 60 seconds. Assume that the student goes to school each weekday between 8:00 and 8:30 a.m. Let X1 be the number of times he encounters a green light, X2 be the number of times he encounters a yellow light, and X3 be the number of times he encounters a red light.
+
+Q: What is the probability the student encounters no green lights in a week (5 consecutive weekdays)?",0.116,0.11,0.12
+NULL,4,00:01:00,0,0,"As a student drives to school, he encounters a traffic signal. This traffic signal stays green for 35 seconds, yellow for 5 seconds, and red for 60 seconds. Assume that the student goes to school each weekday between 8:00 and 8:30 a.m. Let X1 be the number of times he encounters a green light, X2 be the number of times he encounters a yellow light, and X3 be the number of times he encounters a red light.
+
+Q: What is the probability the student encounters at least 3 green lights in a week (5 consecutive weekdays)?",0.2352,0.23,0.24
+NULL,4,00:01:00,0,0,"If you throw 3 dice, one is 6-facet, another is 12-facet, and the other is 20-facet. Let the sum of the 3 dice be the random variable X
+
+Q: Compute the E(X)",20.5,20,21
+NULL,4,00:01:00,0,0,"If you throw 3 dice, one is 6-facet, another is 12-facet, and the other is 20-facet. Let the sum of the 3 dice be the random variable X
+
+Q: What is the probability that X>=10? (i.e. Pr(X>=10) = ?)",0.9424,0.93,0.95
+NULL,4,00:01:00,1,0,"If you throw 3 dice, one is 6-facet, another is 12-facet, and the other is 20-facet. Let the sum of the 3 dice be the random variable X
+
+Q: What is the Q1 (25th percentile) of X?",15,14.5,15.5
+NULL,4,00:01:00,0,0,"If you throw 3 dice, one is 6-facet, another is 12-facet, and the other is 20-facet. Let the sum of the 3 dice be the random variable X
+
+Q: Compute the Var(X)",48.08,47,49
+NULL,4,00:01:00,0,0,"A random experiment involves sampling a dice form five mixed dice (4, 6, 8, 12, 20 sides) and rolling the dice to obtain a point X.
+
+Q: Compute E(X)",5.5,5.3,5.7
+NULL,4,00:01:00,1,1,"A random experiment involves sampling a dice form five mixed dice (4, 6, 8, 12, 20 sides) and rolling the dice to obtain a point X.
+
+Q: Compute Var(X)",18.92,18,19
+NULL,4,00:01:00,1,1,"A random experiment involves sampling a dice form five mixed dice (4, 6, 8, 12, 20 sides) and rolling the dice to obtain a point X.
+
+Q: Determine the median of X",4,3.9,4.1
+NULL,4,00:01:00,1,1,"If two balanced dice are rolled, what is the probability that the difference between the two numbers that appear will be less than 3?",0.6667,0.66,0.67
+NULL,4,00:01:00,2,1,"If four dice are rolled, what is the probability that each of the four numbers that appear will be different?",0.2778,0.27,0.28
+NULL,4,00:01:00,0,0,"If six dice are rolled, what is the probability that each of the six different numbers will appear exactly once?",0.0154,0.015,0.016
+NULL,4,00:01:00,0,0,"If 5 balls are thrown at random into 8 boxes, what is the probability that no box will receive more than one ball?",0.2051,0.2,0.21
+NULL,4,00:01:00,0,0,"An elevator in a building starts with five passengers and stops at seven floors. If every passenger is equally likely to get off at each floor and all the passengers leave independently of each other, what is the probability that no two passengers will get off at the same floor?",0.1499,0.14,0.15
+NULL,4,00:01:00,0,0,"Suppose that 35 people are divided in a random manner into two teams in such a way that one team contains 10 people and the other team contains 25 people. What is the probability that two particular people A and B will be on the same team?",0.5798,0.57,0.58
+NULL,4,00:01:00,0,0,"A box contains 24 light bulbs of which four are defective. If one person selects 10 bulbs from the box in a random manner, and a second person then takes the remaining 14 bulbs, what is the probability that all four defective bulbs will be obtained by the same person?",0.114,0.11,0.12
+NULL,4,00:01:00,1,0,"If seven balanced dice are rolled, what is the probability that each of the six different numbers will appear at least once?",0.009,0.008,0.01
+NULL,4,00:01:00,0,0,"A deck of 52 cards contains 12 picture cards. If the 52 cards are distributed in a random manner among four players in such a way that each player receives 13 cards, what is the probability that each player will receive three picture cards?",0.0324,0.03,0.035
+NULL,4,00:01:00,0,0,"Three players are each dealt, in a random manner, five cards from a deck containing 52 cards. Four of the 52 cards are aces. Find the probability that at least one person receives exactly two aces in their five cards.",0.1187,0.11,0.12
+NULL,4,00:01:00,1,1,"A box contains 30 red balls, 30 white balls, and 30 blue balls. If 10 balls are selected at random, without replacement, what is the probability that at least one color will be missing from the selection?",0.03952,0.039,0.04
+NULL,4,00:01:00,0,0,"Consider an experiment in which a fair coin is tossed until a head is obtained for the first time. If this experiment is performed three times, what is the probability that exactly the same number of tosses will be required for each of the three performances?",0.1429,0.14,0.15
+NULL,4,00:01:00,0,0,"Suppose that the probability that any particle emitted by a radioactive material will penetrate a certain shield is 0.01. How many particles must be emitted in order for the probability to be at least 0.8 that at least one particle will penetrate the shield?",161,159,161
+NULL,4,00:01:00,0,0,"In a certain city, 30 percent of the people are Conservatives, 50 percent are Liberals, and 20 percent are Independents. Records show that in a particular election, 65 percent of the Conservatives voted, 82 percent of the Liberals voted, and 50 percent of the Independents voted. If a person in the city is selected at random and it is learned that she did not vote in the last election, what is the probability that she is a Liberal?",0.3051,0.3,0.31
+NULL,4,00:01:00,2,0,"In a certain city, 30 percent of the people are Conservatives, 50 percent are Liberals, and 20 percent are Independents. Records show that in a particular election, 65 percent of the Conservatives voted, 82 percent of the Liberals voted, and 50 percent of the Independents voted. If a person in the city is selected at random and it is learned that she voted in the last election, what is the probability that she is a Liberal?",0.5816,0.58,0.59
+NULL,4,00:01:00,1,1,"Suppose that when a machine is adjusted properly, 50 percent of the items produced by it are of high quality and the other 50 percent are of medium quality. Suppose, however, that the machine is improperly adjusted during 10 percent of the time and that, under these conditions, 25 percent of the items produced by it are of high quality and 75 percent are of medium quality. Suppose that five items produced by the machine at a certain time are selected at random and inspected. If four of these items are of high quality and one item is of medium quality, what is the probability that the machine was adjusted properly at that time?",0.9897,0.98,0.99
+NULL,4,00:01:00,0,0,"Suppose that when a machine is adjusted properly, 50 percent of the items produced by it are of high quality and the other 50 percent are of medium quality. Suppose, however, that the machine is improperly adjusted during 10 percent of the time and that, under these conditions, 25 percent of the items produced by it are of high quality and 75 percent are of medium quality. Suppose that one additional item, which was produced by the machine at the same time as the other five items, is selected and found to be of medium quality. What is the new posterior probability that the machine was adjusted properly?",0.9846,0.98,0.99
+NULL,4,00:01:00,0,0,"Suppose that a box contains five coins and that for each coin there is a different probability that a head will be obtained when the coin is tossed. Let pi denote the probability of a head when the ith coin is tossed (i = 1, . . . , 5), and suppose that p1 = 0, p2 = 1/4, p3 = 1/2, p4 = 3/4, and p5 = 1. Suppose that one coin is selected at random from the box and when it is tossed once, a head is obtained. What is the posterior probability that the 4th coin was selected?",0.3,0.3,0.3
+NULL,4,00:01:00,0,0,"Suppose that a box contains five coins and that for each coin there is a different probability that a head will be obtained when the coin is tossed. Let pi denote the probability of a head when the ith coin is tossed (i = 1, . . . , 5), and suppose that p1 = 0, p2 = 1/4, p3 = 1/2, p4 = 3/4, and p5 = 1. If a head is obtained in the first toss and the same coin were tossed again, what would be the probability of obtaining another head?",0.75,0.74,0.76
+NULL,4,00:01:00,1,1,"Suppose that a box contains five coins and that for each coin there is a different probability that a head will be obtained when the coin is tossed. Let pi denote the probability of a head when the ith coin is tossed (i = 1, . . . , 5), and suppose that p1 = 0, p2 = 1/4, p3 = 1/2, p4 = 3/4, and p5 = 1. If a tail had been obtained on the first toss of the selected coin and the same coin were tossed again, what would be the probability of obtaining a head on the second toss?",0.25,0.24,0.26
+NULL,4,00:01:00,1,1,"A certain electronic system contains 10 components. Suppose that the probability that each individual component will fail is 0.2 and that the components fail independently of each other. Given that at least one of the components has failed, what is the probability that at least two of the components have failed?",0.699,0.69,0.7
+NULL,4,00:01:00,0,0,"In a clinical trial with two treatment groups, the probability of success in one treatment group is 0.5, and the probability of success in the other is 0.6. Suppose that there are five patients in each group. Assume that the outcomes of all patients are independent. Calculate the probability that the first group will have at least as many successes as the second group.",0.4957,0.49,0.5
+NULL,4,00:01:00,0,0,"If a random variable X has the hypergeometric distribution with parameters A = 8, B = 20, and n, for what value of n will Var(X) be a maximum?",14,14,14
+NULL,4,00:01:00,1,0,"Suppose that n students are selected at random without replacement from a class containing 30 students, of whom A are boys and 30-A are girls. Let X denote the number of boys that are obtained. For what sample size n will Var(X) be a maximum?",15,15,15
+NULL,4,00:01:00,0,0,"Suppose that a sequence of independent tosses are made with a coin for which the probability of obtaining a head on each given toss is 1/30. 
+
+Q: What is the expected number of tails that will be obtained before five heads have been obtained?",145,143,147
+NULL,4,00:01:00,0,0,"Suppose that a sequence of independent tosses are made with a coin for which the probability of obtaining a head on each given toss is 1/30. 
+
+Q: What is the variance of the number of tails that will be obtained before five heads have been obtained?",4350,4325,4352
+NULL,4,00:01:00,0,0,"Suppose that a sequence of independent tosses are made with a coin for which the probability of obtaining a head on each given toss is 1/30. 
+
+Q: What is the expected number of tosses that will be required in order to obtain five heads?",150,148,151
+NULL,4,00:01:00,1,0,"Suppose that a sequence of independent tosses are made with a coin for which the probability of obtaining a head on each given toss is 1/30. 
+
+Q: What is the variance of the number of tosses that will be required in order to obtain five heads?",4350,4325,4352
+NULL,4,00:01:00,0,0,"A box of candy hearts contains 52 hearts, of which 19 are white, 10 are tan, 7 are pink, 3 are purple, 5 are yellow, 2 are orange, and 6 are green. If you select nine pieces of candy randomly from the box, without replacement, give the probability that 3 are white, 2 are tan, 1 is pink, 1 is yellow, and 2 are green.",0.0062,0.006,0.007
+NULL,4,00:01:00,0,0,"Two cards are drawn successively and without replacement from an ordinary deck of playing cards. 
+
+Q: Compute the probability of drawing a heart on the first draw and an ace on the second draw.",0.01923,0.019,0.02
+NULL,4,00:01:00,1,0,"f (x) = c(1/4)^x, x = 1, 2, 3, . . . . 
+Determine the constant c so that f(x) satisfies the conditions of being a p.m.f. for a random variable X.",3,3,3
+NULL,4,00:01:00,0,0,"Let X equal the larger outcome when a pair of fair four-sided dice is rolled. The p.m.f. of X is
+f(x) = (2x-1)/16, x=1,2,3,4.
+
+Q: Find Var(X)",0.8594,0.85,0.86
+NULL,4,00:01:00,0,0,"In the casino game chuck-a-luck, three fair six-sided dice are rolled. One possible bet is $1 on fives, and the payoff is equal to $1 for each five on that roll. In addition, the dollar bet is returned if at least one five is rolled. The dollar that was bet is lost only if no fives are rolled. Let X denote the payoff for this game. Then X can equal -l, l, 2, or 3.
+
+Q: Compute Var(X)",1.2392,1.23,1.24
+NULL,4,00:01:00,0,0,"In 2012, Red Rose tea randomly began placing 1 of 12 English porcelain miniature figurines in a l00-bag box of the tea, selecting from 12 nautical figurines. 
+
+Q: On the average, how many boxes of tea must be purchased by a customer to obtain a complete collection consisting of the 12 nautical figurines?",37.2385,37,38
+NULL,4,00:01:00,1,0,"In 2012, Red Rose tea randomly began placing 1 of 12 English porcelain miniature figurines in a l00-bag box of the tea, selecting from 12 nautical figurines. 
+
+Q: If the customer uses one tea bag per day, how many years can a customer expect to take, on the average, to obtain a complete collection",10.2,10.1,10.2
+NULL,4,00:01:00,0,0,"The events A, B, and C satisfy: Pr(A | B ∩ C) = 1/4, Pr(B | C) = 1/3, and Pr(C) = 1/2. Calculate Pr(A' ∩ B ∩ C).",0.125,0.12,0.13
+NULL,4,00:01:00,1,1,"You are diagnosed with an uncommon disease. You know that there only is a 1% chance of getting it. Use the letter D for the event “you have the disease” and T for “the test says so.” It is known that the test is imperfect: Pr(T | D) = 0.98 and Pr(T' | D') = 0.95. 
+
+Q: Given that you test positive, what is the probability that you really have the disease?",0.165,0.16,0.17
+NULL,4,00:01:00,0,0,"You are diagnosed with an uncommon disease. You know that there only is a 1% chance of getting it. Use the letter D for the event “you have the disease” and T for “the test says so.” It is known that the test is imperfect: Pr(T | D) = 0.98 and Pr(T' | D' ) = 0.95. 
+
+Q: You obtain a second opinion: an independent repetition of the test. You test positive again. Given this, what is the probability that you really have the disease?",0.795,0.79,0.8
+NULL,4,00:01:00,0,0,"A lot of 50 spacing washers contains 30 washers that are thicker than the target dimension. Suppose that three washers are selected at random, without replacement, from the lot. What is the minimum number of washers that need to be selected so that the probability that all the washers are thinner than the target is less than 0.01?",5,5,5
+NULL,4,00:01:00,1,1,"A lot of 50 spacing washers contains 30 washers that are thicker than the target dimension. Suppose that three washers are selected at random, without replacement, from the lot. What is the minimum number of washers that need to be selected so that the probability that one or more washers are thicker than the target is at least 0.90?",3,3,3
